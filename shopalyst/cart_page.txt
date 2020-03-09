@@ -1,0 +1,3687 @@
+<html lang="en"><head>
+
+<link rel="manifest" id="qg-manifest" href="/manifest.json"><meta name="google-site-verification" content="g5SnWsgmSjNKj4B43e2cA3JuruMoNALxfUqvmlEXQB8">
+<meta name="google-site-verification" content="SEjDjtQCyZvuDO6FFNrC4UvPN6aFSvD9QDJhhrhW6ss">
+<meta name="google-site-verification" content="Ypyed6GdYAJ-vB7wX1TfyOqP4BlMUFzcL3BuIvQmIcA">
+<meta name="google-site-verification" content="8QMV65fSZ-YV2eHBzJdsBcLhZyy6BoO3UXwT0MMht_Q">  
+<meta name="google-site-verification" content="g3iv4xHYQhHkxYuEX9dDuCV9Jp_pOQvb0EA_cz5Bogs">
+<meta name="format-detection" content="telephone=no">
+
+
+<meta property="og:title" content="Your Shopping Bag | Shoppers Stop">
+	<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.shoppersstop.com/cart">
+<meta property="og:site_name" content="Shoppers stop">
+<meta name="msvalidate.01" content="C42101654675A561E1C357AADF3C19C8">
+<meta name="google-site-verification" content="google4cb3d01771d6b811">
+
+
+<script async="" src="//twa.netcoresmartech.com/webactivity/ADGMOT35CHFLVDHBJNIG50K96832UI4SFK57K3CEIDOTAG9SU8PG.js"></script><script async="" src="//twa.netcoresmartech.com/webactivity/ADGMOT35CHFLVDHBJNIG50K96832UI4SFK57K3CEIDOTAG9SU8PG.js"></script><script async="" src="//cdnt.netcoresmartech.com/smartech_v3.0.js" id="smartech_v3"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.everestjs.net/static/st.v3.js"></script><script async="" src="https://cdn.qgraph.io/dist/qgraph.v2.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.JKCQ2Hvuo0E.O/m=signin2/exm=client/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCOl3FsgYnTqVeIFUJJD2j4-pO09lQ/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.JKCQ2Hvuo0E.O/m=client/rt=j/sv=1/d=1/ed=1/am=wQE/rs=AGLTcCOl3FsgYnTqVeIFUJJD2j4-pO09lQ/cb=gapi.loaded_0" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K96M29"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDVFFRCxABXFhRAAUGVlI=",licenseKey:"5207ca17be",applicationID:"189374106"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(22),a=t(21);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(t){if(!i(t))return null;var n=window.NREUM;if(!n.loader_config)return null;var e=(n.loader_config.accountID||"").toString()||null,r=(n.loader_config.agentID||"").toString()||null,s=(n.loader_config.trustKey||"").toString()||null;if(!e||!r)return null;var c=a.generateCatId(),f=a.generateCatId(),u=Date.now(),d=o(c,f,u,e,r,s);return{header:d,guid:c,traceId:f,timestamp:u}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function i(t){var n=!1,e=!1,r={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=NREUM.init.distributed_tracing,e=!!r.enabled),e)if(t.sameOrigin)n=!0;else if(r.allowed_origins instanceof Array)for(var o=0;o<r.allowed_origins.length;o++){var i=s(r.allowed_origins[o]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){n=!0;break}}return e&&n}var a=t(19),s=t(13);n.exports={generateTracePayload:r,shouldGenerateTrace:i}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);n.aborted||(e.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):i(this,t),e.cbTime=this.cbTime,u.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime]))}}function o(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.parsedOrigin=c(n),t.sameOrigin=t.parsedOrigin.sameOrigin}function i(t,n){t.params.status=n.status;var e=w(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){i(n,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=f(this.parsedOrigin);e&&e.header&&(n.setRequestHeader("newrelic",e.header),this.dt=e)}),u.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=m(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<l;s++)n.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),u.on("xhr-load-added",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,n){var e=""+p(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],n)}),u.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],n)}),u.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,n){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)}),u.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=f(this.parsedOrigin);if(r&&r.header){var o=r.header;if("string"==typeof t[0]){var i={};for(var a in e)i[a]=e[a];i.headers=new Headers(e.headers||{}),i.headers.set("newrelic",o),this.dt=r,t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",o),this.dt=r)}})}},{}],13:[function(t,n,e){var r={};n.exports=function(t){if(t in r)return r[t];var n=document.createElement("a"),e=window.location,o={};n.href=t,o.port=n.port;var i=n.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=n.hostname||e.hostname,o.pathname=n.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!n.protocol||":"===n.protocol||n.protocol===e.protocol,s=n.hostname===document.domain&&n.port===e.port;return o.sameOrigin=a&&(!n.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],14:[function(t,n,e){function r(t,n){var e=t.responseType;return"json"===e&&null!==n?n:"arraybuffer"===e||"blob"===e||"json"===e?o(t.response):"text"===e||"document"===e||""===e||void 0===e?o(t.responseText):void 0}var o=t(16);n.exports=r},{}],15:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],16:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],17:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],18:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?c("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&c("timing",["fcp",Math.floor(t.startTime)])})}function o(t,n){var e=t.getEntries();e.length>0&&c("lcp",[e[e.length-1]])}function i(t){if(t instanceof u&&!l){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:f.now()-e,l=!0,c("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,s,c=t("handle"),f=t("loader"),u=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),s=new PerformanceObserver(o);try{a.observe({entryTypes:["paint"]}),s.observe({entryTypes:["largest-contentful-paint"]})}catch(d){}}if("addEventListener"in document){var l=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(t){document.addEventListener(t,i,!1)})}}},{}],19:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],20:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],21:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],22:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],23:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script><script>
+	// Picture element HTML shim|v it for old IE (pairs with Picturefill.js)
+	document.createElement("picture");
+</script>
+<script type="application/ld+json">
+{ 
+  "@context": "http://schema.org", 
+  "@type": "WebSite", 
+  "url": "https://www.shoppersstop.com/", 
+  "potentialAction": { 
+    "@type": "SearchAction", 
+    "target": "https://www.shoppersstop.com/search/?text={search_term_string}", 
+    "query-input": "required name=search_term_string" 
+  } 
+} 
+</script>
+<script>
+	var restrictedPages = 'CHECKOUT,PRODUCT,CART,ORDERCONFIRMATION';
+	var refuselink = 'https://www.shoppersstop.com/privacy';
+</script>
+<title>Your Shopping Bag | Shoppers Stop</title>
+	<meta charset="utf-8">
+<!--[if IE]>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+<meta name="format-detection" content="telephone=no">
+<meta property="og:title" content="Your Shopping Bag | Shoppers Stop">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.shoppersstop.com/cart">
+<meta property="og:site_name" content="Shoppers stop">
+
+<script>
+        // Picture element HTML shim|v it for old IE (pairs with Picturefill.js)
+        document.createElement("picture");
+    </script>
+<meta name="keywords">
+<meta name="description">
+<meta name="robots" content="index,follow">
+<link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/responsive/theme-ssl/images/favicon.ico">
+
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/assistedservicepromotionaddon/responsive/common/css/assistedservicepromotionaddon.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/assistedservicestorefront/responsive/common/css/assistedservicestorefront.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/assistedservicestorefront/responsive/common/css/storeFinder.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/assistedservicestorefront/responsive/common/css/customer360.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/customerticketingaddon/responsive/common/css/customerticketingaddon.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/smarteditaddon/responsive/common/css/smarteditaddon.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/assistedservicecustomerinterestsaddon/responsive/common/css/assistedservicecustomerinterestsaddon.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/addons/sslsocialconnectaddon/responsive/common/css/sslsocialconnectaddon.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://prodstatic.shoppersstop.com/_ui/combined.css?timeStamp=_ts@030715372837#ts_">
+    <!-- <link rel="stylesheet" type="text/css" media="all" href="/_ui/combined.css"> -->
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<script type="text/javascript" defer="">
+
+	    window.DY = window.DY || {};
+	    DY.recommendationContext = {type:'CART', data: ['206764048_9654']};
+	</script>
+
+<link rel="dns-prefetch" href="//cdn.dynamicyield.com">
+	<link rel="dns-prefetch" href="//st.dynamicyield.com">
+	<link rel="dns-prefetch" href="//rcom.dynamicyield.com">
+	<script type="text/javascript" src="//cdn.dynamicyield.com/api/8770829/api_dynamic.js"></script>
+	<script type="text/javascript" src="//cdn.dynamicyield.com/api/8770829/api_static.js"></script><style id="dy-common-style" class="dy-common-style" type="text/css">.dy-wysiwyg{line-height:normal;direction:ltr;align-text:left;margin:0;padding:0;background-color:transparent}.dy-wysiwyg a{text-decoration:none;color:#00E}.dy-full-width-notifications-close,.dy-lb-close{color:#fff;display:inline-block;position:absolute}.dynotifyjs-wrapper .dy-lb-close{z-index:1;top:-8px;right:-9px;border:none;transition:opacity .15s;opacity:.7;background-size:14px;background-repeat:no-repeat;background-position:2px;width:18px;height:18px}.dynotifyjs-wrapper .dy-lb-close:hover{opacity:1}.dynotifyjs-corner{position:fixed;margin:0;z-index:1050}.dynotifyjs-corner .dynotifyjs-container,.dynotifyjs-corner .dynotifyjs-wrapper{position:relative;display:block;height:inherit;width:inherit;margin:11px 8px}.dynotifyjs-wrapper{z-index:1;position:absolute;display:inline-block;height:0;width:0}.dynotifyjs-container{display:none;z-index:1;position:absolute}[data-dynotify-html],[data-dynotify-text]{position:relative}.dynotifyjs-arrow{position:absolute;z-index:2;width:0;height:0}.dy-lb-close{top:-12px;right:-11px;cursor:pointer;border:1px solid #918686;border-radius:30px;height:22px;width:22px;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) #575757;background-size:22px}.dy-full-width-notifications-close{top:5px;right:5px;z-index:1;border:none;transition:opacity .15s;-webkit-transition:opacity .15s;opacity:.7;width:18px;height:18px;cursor:pointer;border-radius:30px;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) 2px no-repeat #575757;background-size:14px}.dy-full-width-notifications-close:hover{opacity:1}.dy_full_width_notifications_container{position:fixed;left:0;right:0;z-index:1040}.dy_full_width_notifications_container.dy_bottom_notification{bottom:0}.dy_full_width_notifications_container.dy_top_notification{top:0}.dy_full_width_notifications_container .dy_full_width_notification_instance{opacity:0;-webkit-transition:opacity .15s;transition:opacity .15s;position:relative}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_active{opacity:1}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_bottom{-webkit-animation:dy_appear_from_bottom .25s;animation:dy_appear_from_bottom .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_top{-webkit-animation:dy_appear_from_top .25s;animation:dy_appear_from_top .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_top{-webkit-animation:dy_exit_top .25s;animation:dy_exit_top .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_bottom{-webkit-animation:dy_exit_bottom .25s;animation:dy_exit_bottom .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}@-webkit-keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}.dy-modal-container{position:fixed;z-index:99999;top:0;left:0;bottom:0;right:0;width:100%;height:100%;display:table;-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.dy-modal-container .dy-modal-backdrop{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;opacity:0;-webkit-transition:opacity .2s;transition:opacity .2s;background-color:#000}.dy-modal-container .dy-modal-wrapper{position:relative;z-index:1;display:table-cell;vertical-align:middle;text-align:center;width:100%}.dy-modal-container .dy-modal-wrapper.dy-modal-bottom{padding-bottom:20px;vertical-align:bottom}.dy-modal-container .dy-modal-wrapper.dy-modal-top{padding-top:20px;vertical-align:top}.dy-modal-container .dy-modal-wrapper .dy-modal-contents{position:relative;display:inline-block;-webkit-animation:dy-modal-enter .25s;animation:dy-modal-enter .25s;visibility:hidden}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close{z-index:1;top:-9px;right:-9px;border:none;opacity:.7;transition:opacity .15s;width:18px;height:18px;cursor:pointer;position:absolute;border-radius:30px;color:#fff;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) 2px no-repeat #575757;background-size:14px}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close:hover{opacity:1}@-webkit-keyframes dy-modal-enter{0%{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}50%{-webkit-transform:scale(1.05);transform:scale(1.05)}85%{-webkit-transform:scale(1.1);transform:scale(1.1)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><style type="text/css">.sub-Category {background-color: #292929;  color: #fff;padding: 9px 0 8px 0; margin-top: -1px; display:none;} 
+.sub-Category > div > div{display:inline-block;padding: 0 20px 0 0;}
+.sub-Category  a{color: #fff;}
+.sub-Category  a:hover {color: #ff5d3b;}
+</style><script type="text/javascript" async="true" src="//st.dynamicyield.com/st?sec=8770829&amp;inHead=true&amp;id=8363184698589332980&amp;jsession=755117c60b556294979a4191a998f276&amp;ref=&amp;sr=1366x768&amp;altip=&amp;scriptVersion=12361&amp;ctx=%7B%22type%22%3A%22CART%22%2C%22data%22%3A%5B%22206764048_9654%22%5D%7D"></script>
+
+<script src="//assets.adobedtm.com/f37b8b5a2eb9e8a25c49b4b038c704ae82e9204e/satelliteLib-9b2c470567582d044ef3fc10a74d86e300ee22bd.js"></script>
+
+<!--  <script src="//assets.adobedtm.com/f37b8b5a2eb9e8a25c49b4b038c704ae82e9204e/satelliteLib-9b2c470567582d044ef3fc10a74d86e300ee22bd-staging.js"></script> -->
+<script src="https://assets.adobedtm.com/f37b8b5a2eb9e8a25c49b4b038c704ae82e9204e/s-code-contents-d797d69909aa006497eb557048294b9fc58fd1ad.js"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/955895070/?random=1583760897217&amp;cv=9&amp;fst=1583760897217&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=715&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=330&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg2q2&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.shoppersstop.com%2Fcart&amp;tiba=Your%20Shopping%20Bag%20%7C%20Shoppers%20Stop&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/786556155/?random=1583760897235&amp;cv=9&amp;fst=1583760897235&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=715&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=330&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg2q2&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.shoppersstop.com%2Fcart&amp;tiba=Your%20Shopping%20Bag%20%7C%20Shoppers%20Stop&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><style> .abcRioButton{-webkit-border-radius:1px;border-radius:1px;-webkit-box-shadow 0 2px 4px 0px rgba(0,0,0,.25);box-shadow:0 2px 4px 0 rgba(0,0,0,.25);-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s,box-shadow .218s;transition:background-color .218s,border-color .218s,box-shadow .218s;-webkit-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;color:#262626;cursor:pointer;outline:none;overflow:hidden;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}.abcRioButton:hover{-webkit-box-shadow:0 0 3px 3px rgba(66,133,244,.3);box-shadow:0 0 3px 3px rgba(66,133,244,.3)}.abcRioButtonBlue{background-color:#4285f4;border:none;color:#fff}.abcRioButtonBlue:hover{background-color:#4285f4}.abcRioButtonBlue:active{background-color:#3367d6}.abcRioButtonLightBlue{background-color:#fff;color:#757575}.abcRioButtonLightBlue:active{background-color:#eee;color:#6d6d6d}.abcRioButtonIcon{float:left}.abcRioButtonBlue .abcRioButtonIcon{background-color:#fff;-webkit-border-radius:1px;border-radius:1px}.abcRioButtonSvg{display:block}.abcRioButtonContents{font-family:Roboto,arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:.21px;margin-left:6px;margin-right:6px;vertical-align:top}.abcRioButtonContentWrapper{height:100%;width:100%}.abcRioButtonBlue .abcRioButtonContentWrapper{border:1px solid transparent}.abcRioButtonErrorWrapper,.abcRioButtonWorkingWrapper{display:none;height:100%;width:100%}.abcRioButtonErrorIcon,.abcRioButtonWorkingIcon{margin-left:auto;margin-right:auto}.abcRioButtonErrorState,.abcRioButtonWorkingState{border:1px solid #d5d5d5;border:1px solid rgba(0,0,0,.17);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.05);box-shadow:0 1px 0 rgba(0,0,0,.05);color:#262626}.abcRioButtonErrorState:hover,.abcRioButtonWorkingState:hover{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-webkit-box-shadow:0 1px 0 rgba(0,0,0,.1);box-shadow:0 1px 0 rgba(0,0,0,.1)}.abcRioButtonErrorState:active,.abcRioButtonWorkingState:active{border:1px solid #aaa;border:1px solid rgba(0,0,0,.25);-webkit-box-shadow:inset 0 1px 0 #ddd;box-shadow:inset 0 1px 0 #ddd;color:#262626}.abcRioButtonWorkingState,.abcRioButtonWorkingState:hover{background-color:#f5f5f5}.abcRioButtonWorkingState:active{background-color:#e5e5e5}.abcRioButtonErrorState,.abcRioButtonErrorState:hover{background-color:#fff}.abcRioButtonErrorState:active{background-color:#e5e5e5}.abcRioButtonWorkingState .abcRioButtonWorkingWrapper,.abcRioButtonErrorState .abcRioButtonErrorWrapper{display:block}.abcRioButtonErrorState .abcRioButtonContentWrapper,.abcRioButtonWorkingState .abcRioButtonContentWrapper,.abcRioButtonErrorState .abcRioButtonWorkingWrapper{display:none}.-webkit-keyframes abcRioButtonWorkingIconPathSpinKeyframes{0%{-webkit-transform:rotate(0)}}</style><script src="https://www.artfut.com/static/tracking.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;3&quot;)"></script><script src="https://www.artfut.com/static/crossdevice.min.js" defer="defer" onerror="ADMITAD.onError.call(this, &quot;4&quot;)"></script><link rel="manifest" href="//twa.netcoresmartech.com/manifest.json"></head>
+
+<body class="page-cartPage pageType-ContentPage template-pages-CartPageTemplate pageLabel-cart smartedit-page-uid-cartPage smartedit-page-uuid-eyJpdGVtSWQiOiJjYXJ0UGFnZSIsImNhdGFsb2dJZCI6InNzbENvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ== smartedit-catalog-version-uuid-sslContentCatalog/Online  language-en">
+	<!-- Google Tag Manager by Tatvic -->
+	<input type="hidden" id="pageType" name="pageType" value="CART">
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-K96M29"
+			height="0" width="0" style="display: none; visibility: hidden"></iframe>
+	</noscript>
+	<script>
+
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l='
+        + l
+                : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K96M29');
+</script>
+	<!-- End Google Tag Manager by Tatvic -->
+	<script type="text/javascript">
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"), results = regex
+                .exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1]
+                .replace(/\+/g, " "));
+    }
+    var utmCamp = getParameterByName('utm_campaign');
+    if (utmCamp.length != 0) {
+        setCookie('affliateCookie', utmCamp);
+    }
+    function setCookie(cname, cvalue) {
+        document.cookie = cname + "=" + cvalue + "; ";
+    }
+</script>
+
+
+
+
+	<main data-currency-iso-code="INR">
+			<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+<!-- JS files for google auth feature -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> -->
+<script src="https://apis.google.com/js/api:client.js" gapi_processed="true"></script>
+<!-- Ajax waiting loader -->
+<div class="yCmsContentSlot">
+</div><input type="hidden" id="uiExperience" value="DESKTOP">
+<p style="display:none;" id="samplePageType">CART</p>
+<div class="modal"></div>
+<div id="toastMessage"></div>
+<div id="addToCartSuccessMessage"></div>
+<div class="loaderContainerGlobal">
+	<div class="sk-spinner sk-spinner-three-bounce">
+		<div class="sk-bounce1 "></div>
+		<div class="sk-bounce2 "></div>
+		<div class="sk-bounce3 "></div>
+	</div>
+</div>
+<div class="showBlurScreen"></div>
+<div class="showLoaderFunction"> 
+	<div class="loaderImgSection">
+		<img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/newLoader.gif" alt="newloader">
+	</div>
+</div>
+<input type="hidden" value="true" id="loaderSession">
+<header class="cp-header">
+		<div class="cp-back">
+				<a href="javascript:void(0)" class="fn-back"></a>
+		</div>
+		<span> </span>
+
+		<a href="/">
+					<!-- 				SVG image is rendered as a document, so not able to render without refresh page HYBRISUPGR-167 -->
+				<object type="image/svg+xml" data="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/shoppersstop-logo.svg">
+
+						<img title="SHOPPERS STOP" alt="SHOPPERS STOP" src="https://sslimages.shoppersstop.com/sys-master/images/h72/hc2/8935622475806/logo.png" data-media="">
+					</object>
+				</a>
+				<div class="st-text">
+			SECURE TRANSACTION</div>
+	</header><div id="dyId22492170bf817319" data-dy-embedded-object="true"></div>
+	<div class="empty-content"></div>
+<!-- ECD-2334 start -->
+<!-- ECD-2334 end --><div class="yCmsContentSlot">
+<div class="container container-responsive responsive-padzero ">
+<div class="coupon-banner">
+    </div>
+</div><div class="desktop-padzero responsive-padzero ">
+<div class="coupon-banner">
+    </div>
+</div></div><div class="alert negative" id="noStoreSelected" style="display:none" tabindex="0">
+	Please select stores for the entries highlighted in red</div><input type="hidden" id="continueShoppingUrl" value="/">
+	
+	<!-- Complete your profile pop up start-->
+<div class="cyp-wrap">
+	<div class="cyp-container">
+		<span class="sign-close"></span>
+		<form id="completeProfileForm" action="/login/checkout/completeprofile" method="post" novalidate="novalidate" commandname="completeProfileForm">
+			<div class="cyp-form-wrap">
+				<h4>Complete Your Profile</h4>
+				<h5>Enter below details to proceed</h5>
+				<span class="register-fields-error" style="display: none;">&nbsp;</span>
+				<div class="stepOne">
+				<div class="shadowpan ">
+					<div class="fieldBg fieldBg_email">
+						<input type="text" name="profileEmail" id="profileEmail" title="Email address" placeholder="Email*" autocomplete="off" readonly="" class="prefilled-color">
+					</div>
+					<div class="fieldBg fieldBg_fullname">
+						<input type="text" name="profileName" id="profileName" maxlength="75" title="Please enter valid First Name &amp; Last Name*" placeholder="First Name &amp; Last Name*">
+					</div>
+					<div class="fieldBg fieldBg_mobile">
+						<input type="tel" name="profileMobile" id="profileMobile" title="Mobile Number (10 digits)" placeholder="Mobile Number (10 digits)*" maxlength="10">
+						<span class="mobileNumberCode">+91</span>
+					</div>
+					<div class="fieldBg fieldBg_pass">
+						<input type="password" name="profilePassword" id="profilePassword" title="Set a password (min 6 characters)" placeholder="Set a password (min 6 characters)*" autocomplete="off"> <a href="javascript:void(0)" class="changePassType"></a>
+					</div>
+					<div data-gender="gender" class="radio-col fieldBg_gen">
+						<input type="radio" name="gender" value="FEMALE"> <label for="women">Female</label> <input type="radio" name="gender" value="MALE"> <label for="men">Male</label>
+					</div>
+				</div>
+				<button class="continue-btn continue_verify" value="continue">
+					Continue<span class="ajax-loader"></span>
+				</button>
+              </div>
+				<div class="verifyUserOtp">
+				<div class="cod-vf-container">
+					<div class="cod-req-otp">
+						<p>Mobile Number</p>
+						<div class="mobileNo-container">
+							<span class="dispNo d-block"></span> <a href="javascript:void(0)" class="changeNo">Change</a>
+						</div>
+					</div>
+				</div>
+				<div class="cod-vf-otp">
+					<div class="eotp-container shadowpan">
+						<div class="eotp ">
+							<input type="password" name="cypOtp" id="cypOtp" maxlength="6" title="Enter OTP" placeholder="Enter OTP" autocomplete="off">
+						</div>
+						<a href="javascript:void(0)" class="resend" id="resendCypOtp">Resend</a>
+					</div>
+				</div>
+				<button class="continue-btn continue_verify" value="continue" id="profileOtpSubmitBtn" disabled="">
+					Continue<span class="ajax-loader"></span>
+				</button>
+			</div>
+			</div>
+		</form>
+	</div>
+</div>
+<!-- Complete your profile pop up end-->
+
+<!-- Profile Completed notification Pop up Start -->
+<div class="profCompleted" style="display: none;">
+	<span class="close"></span>
+	<div class="title">
+		<p>PROFILE COMPLETED</p>
+	</div>
+	<div class="formContainer">
+		<p class="msgBig text-center">All Good! Your profile is already completed</p>
+		<a href="/"><button class="continue-btn continue_verify" value="continue">
+			Continue Shopping<span class="ajax-loader"></span>
+		</button></a>
+	</div>
+</div>
+<!-- Profile Completed Pop up End --><div class="member-login" style="display: none;">
+	<div class="loaderContainer">
+		<img src="/_ui/responsive/common/assets/images/sslLoader.gif">
+	</div>
+
+	<div id="member-wrapper">
+		<div id="member-scroller">
+			<span class="loginclose"></span>
+			<div class="member-login-wrap">
+				<div class="mem-login">
+					<h2>
+						Sign in</h2>
+					
+					<h3>
+						Have an account? Sign In</h3>
+
+					<span class="login-account-not-found" data-content="Your username or password is incorrect">&nbsp;</span>
+                    <div class="clearfix">
+						<form id="loginForm" action="/j_spring_security_check" method="post" autocomplete="off"><div class="mem-login">
+					<div class="shadowpan">
+						<div class="email-val">
+							<input type="text" name="j_username" id="j_username" title="Email Address" placeholder="Email or Mobile Number">
+						</div>
+						<div class="password-val">
+							<input type="password" name="j_password" id="j_password" title="Set a password (min 6 characters)" placeholder="Password">
+						</div>
+						</div>
+						<button type="submit" class="continue-btn" value="continue" id="loginajax">
+							Sign in<span class="ajax-loader"></span>
+						</button>
+						<!-- <input type="checkbox" name="_spring_security_remember_me" style="visibility: hidden;position: absolute;" checked> -->	
+					</div>
+					<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form><a href="javascript:void(0);" class="forgot-password " id="j_forgotpassword">Forgot password?</a>
+					</div>
+				
+				</div>
+
+		<form id="forgotForm" action="/login/pw/request" method="post"><div class="forgot-wrap">
+						<span class="back"></span>
+						<h2>
+							Forgot your password</h2>
+						<p>
+							Enter your email address or mobile number.<br>
+							We will send you a link to reset your password</p>
+						<div class="email-val">
+							<input type="text" id="femail" name="femail" placeholder="Email or Mobile number">
+						</div>
+						
+
+
+
+<div class="ssl-captcha">
+ <div class="captcha-div "><span class="ajax-loader"></span>
+	<img class="captcha-img" id="myCaptcha">
+	
+ </div> 
+ <div id="refreshcaptcha">
+     <div style="cursor: pointer;" class="refresh-captcha">Click to change</div>
+     
+  </div>
+						
+	<div class="form-group captcha-code-forgetpwd clearfix">
+		<div class="captchaforgetpwd">
+				<input type="text" id="forgetPwdCaptcha" class="form-control" name="captcha" placeholder="Enter Captcha" value="" autocomplete="off">
+		</div>
+							
+		 
+	</div>
+	</div>
+<button class="continue-btn" id="forgotBtn" type="submit" value="continue">
+							send email</button>
+					</div>
+				<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form><form id="resetForm" action="/login/pw/change" method="post" autocomplete="off"><div class="reset-wrap">
+						<h2>
+							Reset Password</h2>
+						<input type="hidden" value="null" name="token" id="token"> <input type="password" name="newPwd" id="newPwd" title="New password" placeholder="Enter new password">
+						<input type="password" name="checkNewPwd" id="checkNewPwd" title="Confirm password" placeholder="Confirm password">
+						<button class="continue-btn" id="resetBtn" value="continue">
+							Reset my password</button>
+						<input type="checkbox" name="_spring_security_remember_me" style="visibility: hidden" checked="">
+					</div>
+				<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form><div class="login-with-social">
+					<ul>
+						<li><input type="hidden" id="fccProductCode" value="999">
+<div id="fb-root"></div>
+<script type="text/javascript">
+	function downloadJSAtOnload() {
+		var e = document.createElement('script');
+	    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1&status=0';
+	    document.getElementById('fb-root').appendChild(e);
+	}
+    //<![CDATA[
+    window.fbAsyncInit = function() {
+    	var appClientId = $("#facebookAppId").val(); // shared by FACEBOOK
+        FB._https = (window.location.protocol == "https:");
+    	FB.init({
+            appId : appClientId,
+            xfbml : true,
+            oauth : true,
+            status : true,
+            cookie : true,
+        });
+    };
+   	if (window.addEventListener){
+   		window.addEventListener("load", downloadJSAtOnload, false);
+   	}else if (window.attachEvent){
+   		window.attachEvent("onload", downloadJSAtOnload);
+   	}else{ 
+   		window.onload = downloadJSAtOnload;
+   	}
+    //]]>   
+   	function facebooklogin() {
+     $('.loaderContainerGlobal').addClass("login-loader").show();
+   	 if ( $(".fb-login").hasClass( "protected" ) ) {
+   		 console.log("1");
+   		 return;
+   	 }
+   	 else{
+   		 $(".fb-login").addClass("protected");
+   		try{
+   			console.log("2");
+    		FB.getLoginStatus(function(r){
+    			if (r.status === 'connected') {
+                    facebookapidata(r);
+                } else {
+                	facebookmainlogin();
+                }
+            });
+    	}catch(err){
+    		facebookmainlogin();
+    	}
+   	 }
+    	
+    }
+    function facebookmainlogin(){
+    	FB.login(function(response) {
+            if (response.authResponse) {
+                facebookapidata(response);
+            } else {
+            	console.log('User cancelled login or did not fully authorize.');
+            	$('.loaderContainerGlobal').removeClass("login-loader").hide();
+            	$(".fb-login").removeClass("protected");
+            	trackFacebookLoginFailureResponse();
+            }
+        },{scope: 'email'}); // which data to access from user profile // gives only access token
+    }
+    // Load the SDK Asynchronously
+   
+    function facebookcheckoutlogin(data){
+        var fbregisterUrl = $("#fb-register-url").attr("data-url");
+        var CSRFToken=$("#ajaxCSRF").val();
+        var fbProfiledata={
+            'id':data.id,
+            'first_name':data.first_name,
+            'last_name':data.last_name,
+            'email':data.email,
+            'picture':data.picture.data.url,
+            'gender' : data.gender
+        }
+
+        $.ajax({
+            type: "POST",              
+            url: fbregisterUrl,
+            data:"fbProfiledata="+encodeURIComponent(JSON.stringify(fbProfiledata)),
+            success: function (response) {
+            	var redirectpath = response.replace("redirect:", "");
+            	if(response == 'missing'){
+            		$('#id_token').val(data.id);
+            		$( '.member-login ,.sign-up-wrap' ).css('display','none');
+            		$('.overlay').css('display','none');
+            		$("#fbMissingMobile").modal('show');
+            		 $('.loaderContainerGlobal').removeClass("login-loader").hide();
+            		} else if (redirectpath=="/my-account") {
+                if(secureLoginRedirectURL) {
+                  location.href = secureLoginRedirectURL;
+                }
+                else {
+                  if(location.href && location.href.indexOf("#login") !== -1) {
+                    location.href= "/";
+                  } else if(window.location.href.indexOf('/first-citizen/non-member')!= -1){   
+                     window.location.href = "/p-"+$("#fccProductCode").val();
+                  } else {
+                    location.reload();
+                  }
+                }
+                  window.location.hash = '';
+                  trackFacebookLoginSuccessResponse();
+                  trackDYLogin();
+            	} else {
+            		trackFacebookLoginFailureResponse();
+            		$('.loaderContainerGlobal').removeClass("login-loader").hide();
+            	}
+            },
+            error: function (xhr, status, error) {
+                $('.loaderContainerGlobal').removeClass("login-loader").hide();
+                alert('error occured in FBConnect.ashx');
+                trackFacebookLoginFailureResponse();
+            }
+        });
+      }
+    
+    function facebookdata(response){
+
+        var request="https://graph.facebook.com/me?access_token="+response.authResponse.accessToken;
+        $.ajax({
+              type: "GET",
+              dataType: "json", // what data type to expect from the server
+              url: request,
+              success: function (data) {
+            	  if(data.hasOwnProperty('email')){
+                 facebookcheckoutlogin(data);                  
+              }else{
+            	  facebookapidata(response);
+              }
+            	  },
+              error: function (xhr, status, error) {
+            	  alert(status+' occured in FBConnect. Refresh the page and try again');
+            	  trackFacebookLoginFailureResponse();
+              }
+          });
+    }
+    function facebookapidata(response){
+        var request="https://graph.facebook.com/me?fields=email,picture.height(961),name,first_name,last_name,gender&access_token="+response.authResponse.accessToken;
+        $.ajax({
+              type: "GET",
+              dataType: "json", // what data type to expect from the server
+              url: request,
+              success: function (data) {
+            	  
+                 facebookcheckoutlogin(data);                  
+              },
+              error: function (xhr, status, error) {
+            	  alert(status+' occured in FBConnect. Refresh the page and try again');
+            	  trackFacebookLoginFailureResponse();
+              }
+          });
+    }
+</script>
+<input type="hidden" id="facebookAppId" value="323147857865041">
+<input type="hidden" value="ccf86d38-10b4-4060-805b-13652914ee7e" id="ajaxCSRF">
+<a href="javascript:void(0);" class="fb-login" onclick="facebooklogin();" rel="facebook-connect"></a>
+<div id="fb-register-url" data-url="/fb/checkoutregister"></div>
+ <input type="hidden" id="id_token" value="">
+  
+  </li>
+						<li>
+  <script>
+  var googleUser = {};
+  var startApp = function(googleKey) {
+	try{  
+    gapi.load('signin2', function($googleKey){
+      // Retrieve the singleton for the GoogleAuth library and set up the client.
+      auth2 = gapi.auth2.init({
+        client_id: googleKey,
+        cookiepolicy: 'single_host_origin',
+        // Request scopes in addition to 'profile' and 'email'
+        //scope: 'additional_scope'
+      });
+      attachSignin(document.getElementById('googleLoginBtn'));
+    });
+	}
+	catch(err)
+	{
+		console.log(err);
+	}
+  };
+  
+ 
+
+    function attachSignin(element) {
+    auth2.attachClickHandler(element, {},
+        function(googleUser) {
+    		var basicProfile=googleUser.getBasicProfile();
+          $('.loaderContainerGlobal').addClass("login-loader").show();
+          $.ajax({
+              type: "POST",
+              url: "/login/google/aouth",
+              data: {'accessToken':googleUser.getAuthResponse(true).access_token,
+                  'socialIDP':'google',
+                  'id_token':googleUser.getAuthResponse(true).id_token 
+              },
+              success: function(data) {
+            	  responseVal = data.split(",");
+            	  if(responseVal[0] === "missing"){
+                	  $("#google_id_token").val(responseVal[1]);
+                	  $( '.member-login, .sign-up-wrap' ).css('display','none');
+              		$('.overlay').css('display','none');
+                	  $("#googleMissingMobile").modal('show'); 	 
+                	 $("#enteredMobile-error").text("Enter A Valid Mobile Number")
+              }else if(responseVal[0] === "Success"){
+            	  if(secureLoginRedirectURL) {
+                      location.href = secureLoginRedirectURL;
+                    }
+                    else {
+                      if(location.href && location.href.indexOf("#login") !== -1) {
+                        location.href= "/";
+                      } else {
+                        location.reload();
+                      }
+                    }
+            	  trackDYLogin();
+            	  trackGoogleLoginSuccessResponse();
+              }
+          },
+          error: function(data) {
+              $('.loaderContainerGlobal').removeClass("login-loader").hide();
+              trackGoogleLoginFailureResponse();
+            },
+            async:false
+          });
+        }, function(error) {
+          $('.loaderContainerGlobal').removeClass("login-loader").hide();
+          trackGoogleLoginFailureResponse();
+        });
+  }
+  </script>
+  
+   
+  <div id="gSignInWrapper">
+    <div id="googleLoginBtn" class="googleBtn">
+      <span class="icon"></span>
+    </div>
+  </div>
+  <script>startApp("570506897857-aj7ifd4ne3j2gv2fis1369fu31urasld.apps.googleusercontent.com");
+  </script>
+<script>
+
+ function resendGoogleOtp(){
+	  if(isDisableResendOTPLinkEnabled()){
+		  $("#googleMissingOTPError").text("Please try to continue with a different mobile number");
+	  }else{
+		  $('#enteredOtpValue').val('');
+		  $('#googleMissingOTPError').val('');
+		  $('.missingMobileNumber .formContainer .continue_verify').removeAttr('disabled');
+		  googleMobileVerifyPopUp()
+	  }
+  }
+</script>
+  
+  
+  
+  <script>
+  function googleMobileVerifyPopUp(){
+	  var mobile=$("#googleEnteredMobile").val();
+	  var di = $("#google_id_token").val();
+	 $('.missingMobileNumber #googleMobileCheck .continue-btn .ajax-loader').show();
+	   $.ajax({
+	    type: "POST",	    
+	    url : "/googleregister-mobile",
+	      
+	    data:{'id':di,'mobile':mobile},
+	   
+	      success: function (googleData) {
+	    	  if(googleData == 'missing')
+	          		{
+	    		    //$('.missingMobileNumber .formContainer .continue_verify').attr('disabled','disabled');
+	    		    //$('.missingMobileNumber .formContainer .continue_verify').removeAttr('disabled');
+					$( '.member-login' ).css('display','none'); 
+                 	 $( '.overlay' ).css('display','none'); 
+                	  $("#googleMissingMobile").modal('show'); 	          		
+                    }
+	          	else if(googleData=='linked')
+	          	{
+	          		$('#googleMissingMobileError').text('Mobile number is linked to an existing Shoppers Stop account. Please login with existing account or enter a different mobile number');
+	          		//alert('accont is linked to existing account');
+	          	}
+	          	else if(googleData == 'invalidmobile')
+	          		{
+	          		//alert('please enter the valid mobile number');
+	          		$('#googleMissingMobileError').text('Please enter the valid mobile number');
+	          		}
+	          	else if(googleData == 'OTP'){
+	          //	alert("Please enter the otp" +googleData);
+	          $( '.member-login ,.sign-up-wrap' ).css('display','none');
+	           $( '.verifyUserOtp' ).css('display','block'); 
+	          $('.missingMobileNumber .formContainer .continue_verify').attr('disabled','disabled');	
+	          var mobile=$('#googleEnteredMobile').val();
+	          	var masked = maskTheMobileNumber(mobile);
+          		$('#googleMaskNo').text(masked);
+	          	$('#googleMissingOTPError').text('');
+	        	$("#googleMobileCheck").css('display','none');
+          		$("#googleOtpCheck, .verifyUserOtp").css('display','block');
+	          	}
+	          	else if(googleData == 'Success'){	          		
+	          		if(secureLoginRedirectURL) {
+	                    location.href = secureLoginRedirectURL;
+	                  }
+	                  else {
+	                    if(location.href && location.href.indexOf("#login") !== -1) {
+	                      location.href= "/";
+	                    } else {
+	                      location.reload();
+	                    }
+	                  }
+				  trackDYLogin();
+            	  trackGoogleLoginSuccessResponse();
+	    		  }
+	          	else if(googleData == 'error'){
+	          		//alert('OTP could not be send at this time, please try again after sometime.');
+	          		$('#googleMissingMobileError').text('OTP could not be send at this time, please try again after sometime.');
+	          	}
+	           else {
+	          	//	alert('Check your facebook login details');
+	          		    trackGoogleLoginFailureResponse();
+	          		$('.loaderContainerGlobal').removeClass("login-loader").hide();
+	          	}
+             $('.missingMobileNumber #googleMobileCheck .continue-btn .ajax-loader').hide();
+	          },
+      error: function(response) {
+        }, 
+        
+        async:false
+       // $('#googleMissingMobile #googleMobileCheck .continue-btn .ajax-loader').hide();
+   		});
+ 	}
+  </script>
+  
+  
+  <script>
+  function googleVerifyOtp(){
+	  var mobile=$('#googleEnteredMobile').val();
+	  var otp=$('#enteredOtpValue').val();
+	  var di=$('#google_id_token').val();
+	  $('#googleMissingMobileError').html('');
+	  $('.missingMobileNumber #googleOtpCheck .continue-btn .ajax-loader').show();
+	  //alert("In verify otp  "+mobile);
+	   $.ajax({
+	    type: "POST",	    
+	    url : "/verifygoogleregisterotp",
+	      
+        data:{'id':di,'mobile':mobile,'otp':otp},
+	    success: function (googleData) {
+          	if(googleData == 'missing')
+          		{
+          		$("#googleMissingMobile").modal('show');
+          		}
+          	else if(googleData=='linked')
+          	{
+          		//alert('accont is linked to existing account');
+          		$('#googleMissingOTPError').text('Mobile number is linked to an existing Shoppers Stop account. Please login with existing account or enter a different mobile number');
+          	}
+          	else if(googleData == 'invalidotp')
+          		{
+          		$('#googleMissingOTPError').text('Please enter the valid OTP');
+          		$('#enteredOtpValue').val('');
+          		$('.missingMobileNumber .formContainer .continue_verify').attr('disabled','disabled');
+          		}
+          	else if(googleData == 'OTP'){
+          		$( '.member-login ,.sign-up-wrap' ).css('display','none');
+          		$("#googleMissingMobile").css('display','none');
+          		$("#googleOtpCheck, .verifyUserOtp").css('display','block');
+     
+          	}
+          	else if(googleData == 'error'){
+          		$('#googleMissingOTPError').text('OTP could not be send at this time, please try again after sometime.');
+          	} else if(googleData == 'Success'){
+          		if(secureLoginRedirectURL) {
+                    location.href = secureLoginRedirectURL;
+                  }
+                  else {
+                    if(location.href && location.href.indexOf("#login") !== -1) {
+                      location.href= "/";
+                    } else {
+                      location.reload();
+                    }
+                  }
+              trackDYLogin();
+           	  trackGoogleLoginSuccessResponse();
+          	} 
+          else {
+          		//alert('Check your facebook login details'); existing alert in prod
+	          	          trackGoogleLoginFailureResponse();
+          		$('.loaderContainerGlobal').removeClass("login-loader").hide();
+          	}
+          	$('.missingMobileNumber #googleOtpCheck .continue-btn .ajax-loader').hide();
+          },
+      error: function(response) {
+    	  
+        }, 
+        async:false
+   		});
+ 	}
+  </script>
+  <script>
+  function changeGoogleMobileNumber(){
+	$('.missingMobileNumber .formContainer .continue_verify').removeAttr('disabled');
+	$('.resend').css({"pointer-events": "","cursor": "","color":"","font-weight":""});
+	 $('#googleMissingMobileError').text('');
+	 $('#googleMissingOTPError').text('');
+	  $("#googleMissingMobile").modal('show');
+	  $("#googleMobileCheck").css('display','block');
+	  $("#googleOtpCheck").css('display','none');
+	  sessionStorage.removeItem("rslec");
+	  $('#enteredOtpValue').val('');
+	  $('.resend').css({"pointer-events": "","cursor": "","color":"","font-weight":""});
+  }
+  </script></li>
+					</ul>
+				</div>
+				
+						
+						 Create a new account? <a href="javascript:void(0);" class="main-signup">Sign Up</a> <span class="offer"></span>
+			</div>
+		</div>
+	</div>
+</div>
+  <!-- signUp Redesign -->
+  <!-- <div id="sign-up-wrap-modal"> -->
+      <div class="sign-up-wrap" style="display: none;">
+      <div id="sign-wrapper">
+        <div id="sign-scroller">
+          <div class="new-sign-up">
+            <span class="sign-close"></span>
+            <form id="registerForm" action="/login/register" method="post" commandname="registerForm">
+              <div class="register-wrap">
+                <h4>Sign up</h4>
+                <h5>Create your account on Shoppers Stop</h5>
+                <span class="register-fields-error" style="display: ;">&nbsp;</span>
+               <div class="stepOne">
+                <div class="shadowpan ">
+                  <div class="fieldBg fieldBg_fullname">
+                  <input type="text" name="signupFullName" id="signupFullName" maxlength="75" title="Please enter valid First Name &amp; Last Name*" placeholder="First Name &amp; Last Name*">
+                  </div>
+                  <div class="fieldBg fieldBg_email">
+                  <input type="text" name="signupEmail" id="signupEmail" title="Email address" placeholder="Email*" autocomplete="off">
+                  </div>
+                  <div class="fieldBg fieldBg_mobile">
+                    <input type="tel" name="signupMobileNumber" id="signupMobileNumber" title="Mobile Number (10 digits)" placeholder="Mobile Number (10 digits)*" maxlength="10">
+								<span class="mobileNumberCode">+91</span>
+                  </div>
+                  <div class="fieldBg fieldBg_pass">
+                  <input type="password" name="signupPassword" id="signupPassword" title="Set a password (min 6 characters)" placeholder="Set a password (min 6 characters)*" autocomplete="off">
+                      <a href="javascript:void(0)" class="changePassType"></a>
+                  </div>
+
+                  <!-- <input type="password" name="checkPwd" id="checkPwd" title="Confirm password" placeholder="Confirm password*" autocomplete="off"> -->
+                  <div data-gender="gender" class="radio-col fieldBg_gen">
+                  <input type="radio" name="gender" id="women" value="FEMALE"> <label for="women">Female</label>
+                  <input type="radio" name="gender" id="men" value="MALE"> <label for="men">Male</label>
+                  </div>
+                </div>
+              <button class="continue-btn continue_verify" value="continue">Continue<span class="ajax-loader"></span></button>
+              </div>
+                <div class="verifyUserOtp">
+                  <div class="cod-vf-container">
+                    <div class="cod-req-otp">
+                      <p>Mobile Number</p>
+                      <div class="mobileNo-container">
+                        <span class="dispNo d-block"></span>
+                        <a href="javascript:void(0)" class="changeNo">Change</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="cod-vf-otp">
+                    <div class="eotp-container shadowpan">
+                      <div class="eotp ">
+                      	<input type="password" name="singupRegisterOtp" id="singupRegisterOtp" maxlength="6" title="Enter OTP" placeholder="Enter OTP" autocomplete="off">
+                      </div>
+                      <a href="javascript:void(0)" class="resend disabled1" id="resendregisterotp">Resend</a>
+                    </div>
+                  </div>
+                  <button class="continue-btn continue_verify" value="continue" id="otpSubmitBtn" disabled="">Continue<span class="ajax-loader"></span></button>
+                  
+                </div>
+
+                <!-- <button class="continue-btn jq-continue-btn-enableDisable" value="continue" id="registerajax">Continue<span class="ajax-loader"></span></button> -->
+
+                <div class="login-common">
+                  <div class="login-with-social">
+                    <ul>
+                      <li><a href="javascript:void(0);" class="fb-login" onclick="facebooklogin();" rel="facebook-connect"></a></li>
+                      <li>
+                       
+  <script>
+  var googleUser = {};
+  var startApp = function(googleKey) {
+	try{  
+    gapi.load('signin2', function($googleKey){
+      // Retrieve the singleton for the GoogleAuth library and set up the client.
+      auth2 = gapi.auth2.init({
+        client_id: googleKey,
+        cookiepolicy: 'single_host_origin',
+        // Request scopes in addition to 'profile' and 'email'
+        //scope: 'additional_scope'
+      });
+      attachSignin(document.getElementById('googleLoginRegBtn'));
+    });
+	}
+	catch(err)
+	{
+		console.log(err);
+	}
+  };
+  
+ 
+
+    function attachSignin(element) {
+    auth2.attachClickHandler(element, {},
+        function(googleUser) {
+    		var basicProfile=googleUser.getBasicProfile();
+          $('.loaderContainerGlobal').addClass("login-loader").show();
+          $.ajax({
+              type: "POST",
+              url: "/login/google/aouth",
+              data: {'accessToken':googleUser.getAuthResponse(true).access_token,
+                  'socialIDP':'google',
+                  'id_token':googleUser.getAuthResponse(true).id_token 
+              },
+              success: function(data) {
+            	  responseVal = data.split(",");
+            	  if(responseVal[0] === "missing"){
+            		  $( '.member-login, .sign-up-wrap' ).css('display','none');
+                	  $("#google_id_token").val(responseVal[1]);
+                	  /* $( '.member-login' ).removeClass(); */
+                	  $("#googleMissingMobile").modal('show'); 	 
+                	 $("#enteredMobile-error").text("Enter A Valid Mobile Number")
+              }else if(responseVal[0] === "Success"){
+            	  if(secureLoginRedirectURL) {
+                      location.href = secureLoginRedirectURL;
+                    }
+                	  else {
+                      if(location.href && location.href.indexOf("#login") !== -1) {
+                        location.href= "/";
+                      } else {
+                        location.reload();
+                      }
+                    }
+            	  trackGoogleLoginSuccessResponse();
+            	  trackDYLogin();
+              }
+              
+          },
+          error: function(data) {
+              $('.loaderContainerGlobal').removeClass("login-loader").hide();
+              trackGoogleLoginFailureResponse();
+            },
+            async:false
+          
+          });
+        }, function(error) {
+          $('.loaderContainerGlobal').removeClass("login-loader").hide();
+          trackGoogleLoginFailureResponse();
+        });
+  }
+  </script>
+  
+   
+  <div id="gSignInWrapper">
+    <div id="googleLoginRegBtn" class="googleBtn">
+      <span class="icon"></span>
+    </div>
+  </div>
+  <script>startApp("570506897857-aj7ifd4ne3j2gv2fis1369fu31urasld.apps.googleusercontent.com");
+  </script>
+<script>
+
+ function resendGoogleOtp(){
+	  if(isDisableResendOTPLinkEnabled()){
+		  $("#googleMissingOTPError").text("Please try to continue with a different mobile number");
+	  }else{
+		  
+		  $('#enteredOtpValue').val('');
+		  $('#googleMissingOTPError').val('');
+		  $('.missingMobileNumber .formContainer .continue_verify').removeAttr('disabled');
+		  googleMobileVerifyPopUp();
+	  }
+  }
+</script>
+  
+  <script>
+  function googleMobileVerifyPopUp(){
+	  var mobile=$("#googleEnteredMobile").val();
+	  var di = $("#google_id_token").val();
+	  $('.missingMobileNumber #googleMobileCheck .continue-btn .ajax-loader').show();
+	   $.ajax({
+	    type: "POST",	    
+	    url : "/googleregister-mobile",
+	      
+	    data:{'id':di,'mobile':mobile},
+	   
+	      success: function (googleData) {
+	    	  if(googleData == 'missing')
+	          		{
+					$( '.member-login' ).css('display','none'); 
+                 	 $( '.overlay' ).css('display','none'); 
+                	  $("#googleMissingMobile").modal('show'); 	          		
+                    }
+	          	else if(googleData=='linked')
+	          	{
+	          		$('#googleMissingMobileError').text('Mobile number is linked to an existing Shoppers Stop account. Please login with existing account or enter a different mobile number');
+	          	}
+	          	else if(googleData == 'invalidmobile')
+	          		{
+	          		$('#googleMissingMobileError').text('Please enter the valid mobile number');
+	          		}
+	          	else if(googleData == 'OTP'){
+	          $('.missingMobileNumber .formContainer .continue_verify').attr('disabled','disabled');	
+	          var mobile=$('#googleEnteredMobile').val();
+	          	var masked = maskTheMobileNumber(mobile);
+          		$('#googleMaskNo').text(masked);
+	          	$('#googleMissingMobileError').text('');
+	        	$("#googleMobileCheck").css('display','none');
+          		$("#googleOtpCheck, .verifyUserOtp").css('display','block');
+	          	} else if(googleData == 'Success'){	          		
+	          		if(secureLoginRedirectURL) {
+	                    location.href = secureLoginRedirectURL;
+	                  }
+	              	  else {
+	                    if(location.href && location.href.indexOf("#login") !== -1) {
+	                      location.href= "/";
+	                    } else {
+	                      location.reload();
+	                    }
+	                  }
+					  trackDYLogin();
+	            	  trackGoogleLoginSuccessResponse();
+		    		  }
+	          	else if(googleData == 'error'){
+	          		$('#googleMissingMobileError').text('OTP could not be send at this time, please try again after sometime.');
+	          	}
+	           else {
+	          		    trackGoogleLoginFailureResponse();
+	          		$('.loaderContainerGlobal').removeClass("login-loader").hide();
+	          	}
+	    	  $('.missingMobileNumber #googleMobileCheck .continue-btn .ajax-loader').hide();
+	          },
+      error: function(response) {
+        }, 
+        async:false
+   		});
+ 	}
+  </script>
+  
+  
+  <script>
+  function googleVerifyOtp(){
+	  var mobile=$('#googleEnteredMobile').val();
+	  var otp=$('#enteredOtpValue').val();
+	  var di=$('#google_id_token').val();
+	  $('#googleMissingMobileError').html('');
+	   $.ajax({
+	    type: "POST",	    
+	    url : "/verifygoogleregisterotp",
+	      
+        data:{'id':di,'mobile':mobile,'otp':otp},
+	    success: function (googleData) {
+          	if(googleData == 'missing')
+          		{
+          		$("#googleMissingMobile").modal('show');
+          		}
+          	else if(googleData=='linked')
+          	{
+          		$('#googleMissingOTPError').text('Mobile number is linked to an existing Shoppers Stop account. Please login with existing account or enter a different mobile number');
+          	}
+          	else if(googleData == 'invalidotp')
+          		{
+          		$('#googleMissingOTPError').text('Please enter the valid OTP');
+          		$('#enteredOtpValue').val('');
+          		$('.missingMobileNumber .formContainer .continue_verify').attr('disabled','disabled');
+          		}
+          	else if(googleData == 'OTP'){
+          		$("#googleMissingMobile").css('display','none');
+          		$("#googleOtpCheck, .verifyUserOtp").css('display','block');
+     
+          	}
+          	else if(googleData == 'error'){
+          		$('#googleMissingOTPError').text('OTP could not be send at this time, please try again after sometime.');
+          	} else if(googleData == 'Success'){
+          		if(secureLoginRedirectURL) {
+                    location.href = secureLoginRedirectURL;
+                  }
+              	  else {
+                    if(location.href && location.href.indexOf("#login") !== -1) {
+                      location.href= "/";
+                    } else {
+                      location.reload();
+                    }
+                  }
+				trackDYLogin();
+          	    trackGoogleLoginSuccessResponse();
+          	} 
+          else {
+	          	          trackGoogleLoginFailureResponse();
+          		$('.loaderContainerGlobal').removeClass("login-loader").hide();
+          	}
+          },
+      error: function(response) {
+    	  
+        }, 
+        async:false
+   		});
+ 	}
+  </script>
+  <script>
+  function changeGoogleMobileNumber(){
+	 sessionStorage.removeItem("rslec");
+	 $('#googleMissingMobileError').text('');
+	 $('#googleMissingOTPError').text('');
+	  $("#googleMissingMobile").modal('show');
+	  $("#googleMobileCheck").css('display','block');
+	  $("#googleOtpCheck").css('display','none');
+	  $('#enteredOtpValue').val('');
+	  $('.missingMobileNumber .formContainer .continue_verify').removeAttr('disabled');
+	  $('.resend').css({"pointer-events": "","cursor": "","color":"","font-weight":""});
+  }
+  </script></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="login-common">
+                  Have an account? <a href="javascript:void(0);" class="inactive-btn signup-have-account"> Sign In</a>
+                  <p>
+                    By signing up you agree to our <a href="/term-condition" target="_blank">Terms of service</a> &amp; <a href="/privacy" target="_blank">Privacy
+				Policy</a>
+                  </p>
+                </div>
+              </div>
+              <div>
+                <input type="hidden" name="CSRFToken" value="9f6ea30f-ffe3-4e21-ba42-117bb7ece25c">
+              </div>
+            </form>
+          </div>
+          <div class="offer-benefits">
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- </div> -->
+    <!-- signUp Redesign End -->
+    
+   <!-- fb missing mobile capture start-->
+<div class="missingMobileNumber" id="fbMissingMobile" data-keyboard="false" data-backdrop="static">
+	<div class="close" data-dismiss="modal"></div>
+	<div class="title">
+		<p>missing mobile number</p>
+	</div>
+	<div class="formContainer">
+		<div id="mobile-input">
+			<p>To complete the registration please enter your mobile number.</p>
+			<div class="phoneField">
+				<input type="tel" class="mobileNo" name="fbEnteredMobile" id="fbEnteredMobile" maxlength="10" placeholder="mobile number" onkeypress="return isNumber(event)">
+					<span class="mobileNumberCode">+91</span>
+			</div>
+			<span id="fbMissingMobileError" style="color:#ff5d3b;text-align: center;"></span>
+			<div class="continue-btn continue_verify" value="continue" disabled="" id="fbMobileVerify">
+				Continue<span class="ajax-loader"></span>
+			</div>
+		</div>
+		<div id="fbOtpCheck" style="display: none;">
+			<div class="verifyUserOtp">
+				<div class="cod-vf-container">
+					<div class="cod-req-otp">
+						<p>Mobile Number</p>
+						<div class="mobileNo-container">
+							<span class="dispNo"></span> <a href="javascript:void(0)" class="changeNo">Change</a>
+						</div>
+					</div>
+				</div>
+				<div class="cod-vf-otp">
+					<div class="eotp-container">
+						<div class="eotp ">
+							<input type="tel" name="fbMobileOtp" id="fbMobileOtp" minlength="6" maxlength="6" placeholder="Enter OTP" autocomplete="off">
+						</div>
+						<a class="resend">Resend</a>
+					</div>
+					<span id="fbMissingMobOTPError" style="color:#ff5d3b;text-align: center;"></span>
+					<div class="continue-btn continue_verify" id="fbOTPVerify" value="continue" disabled="">
+						Continue<span class="ajax-loader"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- fb missing mobile capture end-->
+<!--Login popups started  -->
+
+<div class="missingMobileNumber" id="loginMissingMobile" data-keyboard="false" data-backdrop="static">
+	<div class="close" data-dismiss="modal"></div>
+	<div class="title">
+		<p>missing mobile number</p>
+	</div>
+	<div class="formContainer">
+	
+	<!--Login MObile number popup start  -->
+	
+		<div id="loginMobileCheck">
+			<p>To complete the registration please enter your mobile number.</p>
+			<div class="phoneField">
+				
+				<input class="mobileNo" type="tel" name="enteredMobileNumber" id="enteredMobileNumber" maxlength="10" placeholder="mobile number" onkeypress="return isNumber(event)">
+					<span class="mobileNumberCode">+91</span>
+					
+				<input class="mobileNo" type="hidden" name="encrypedString" id="encrypedString">	
+			</div>
+			<span id="mobile_duplicate" style="color:#ff5d3b"></span>
+			<div class="continue-btn continue_verify" value="continue" disabled="" onclick="sendOtpToMobile()" id="loginMobileVerify">
+				Continue<span class="ajax-loader"></span>
+			</div>
+		</div>
+		
+		<!--Login MObile number popup end  -->
+		
+		<!--Login Otp popup start  -->
+		<div id="loginOtpCheck" style="display: none;">
+			<div class="verifyUserOtp">
+				<div class="cod-vf-container">
+					<div class="cod-req-otp">
+						<p>Mobile Number</p>
+						<div class="mobileNo-container">
+							<span class="dispNo" id="mobileNumberMasked"><!-- +91 - ******5433 --></span> <!-- <a
+								href="javascript:void(0)" class="changeNo">Change</a> -->
+								<a href="#" class="changeNo" onclick="changeMobileNumber()">Change</a>
+						</div>
+					</div>
+				</div>
+				<div class="cod-vf-otp">
+					<div class="eotp-container">
+						<div class="eotp ">
+						 
+							<input type="tel" name="enteredOtpForLogin" id="enteredOtpForLogin" minlength="6" maxlength="6" placeholder="Enter OTP" autocomplete="off">
+								
+							<input type="hidden" name="encrypedStringEntered" id="encrypedStringEntered" autocomplete="off">
+							<input type="hidden" name="encryptedMobileNumber" id="encryptedMobileNumber" autocomplete="off">
+						</div>
+						<a href="#" class="resend" onclick="resendIfNotDisable()">Resend</a>
+						<!-- <a  class="resend">Resend</a> -->
+					</div>
+					 <span id="invalid_otp" style="color:#ff5d3b"></span>
+					<div class="continue-btn continue_verify" id="loginOTPVerify" onclick="CheckOtpPopUp()" value="continue" disabled="">
+						Continue<span class="ajax-loader"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--Login Otp popup end  -->
+		
+	</div>
+</div>
+
+
+<!--Google popups Start  -->
+
+<!-- POP Up's mobile number and otp for google sign in/up-->
+<div class="missingMobileNumber" id="googleMissingMobile" data-keyboard="false" data-backdrop="static">
+	<div class="close" data-dismiss="modal"></div>
+	<div class="title">
+		<p>missing mobile number</p>
+	</div>
+	<div class="formContainer">
+		<div id="googleMobileCheck">
+			<p>To complete the registration please enter your mobile number.</p>
+			<div class="phoneField">
+				<input class="mobileNo" type="tel" name="googleEnteredMobile" id="googleEnteredMobile" maxlength="10" placeholder="mobile number" onkeypress="return isNumber(event)">
+					<span class="mobileNumberCode">+91</span>
+					 <input type="hidden" id="google_id_token" value="">
+			</div>
+			<span id="googleMissingMobileError" style="color:#ff5d3b"></span>
+			<div class="continue-btn continue_verify" value="continue" disabled="" onclick="googleMobileVerifyPopUp()">
+				Continue<span class="ajax-loader"></span>
+			</div>
+		</div>
+		<div id="googleOtpCheck" style="display: none;">
+			<div class="verifyUserOtp">
+				<div class="cod-vf-container">
+					<div class="cod-req-otp">
+						<p>Mobile Number</p>
+						<div class="mobileNo-container">
+							<span id="googleMaskNo" class="dispNo d-block"></span>
+							<a href="javascript:void(0)" onclick="changeGoogleMobileNumber()" class="changeNo">Change</a>
+						</div>
+						</div>
+					</div>
+				</div>
+				<div class="cod-vf-otp">
+					<div class="eotp-container">
+						<div class="eotp ">
+							<input type="tel" name="otp" id="enteredOtpValue" maxlength="6" placeholder="Enter OTP" autocomplete="off">
+						</div>
+						<a onclick="resendGoogleOtp()" class="resend">Resend</a>
+					</div>
+					<span id="googleMissingOTPError" style="color:#ff5d3b"></span>
+					<div class="continue-btn continue_verify" id="googleOtpVerify" value="continue" onclick="googleVerifyOtp()" disabled="">
+						Continue<span class="ajax-loader"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div id="noQuantityError" class="alert alert-danger alert-dismissable shopping-error" style="display: none;">Please enter the quantity greater than Zero!</div>
+	<!-- AP HUP68V-380 START -->
+
+	<!-- AP HUP68V-380 END -->
+
+<!--Commented for ECD-445  -->
+	<!-- AP HUP68V-380 START -->
+<!-- AP HUP68V-380 END -->
+
+
+<!-- ECD-1226 start -->
+ <!-- ECD-1226 End -->
+
+
+
+
+	<section class="shopping-bag-wpr">
+		<div class="container container-responsive">
+			<div class="row">
+				<div class="col-sm-12 text-center clearfix">
+				</div>
+				<div class="col-md-9 col-lg-9 col-mobile shopping-bag-left wishlist-items clearfix  ">
+					<div class="myCartProducts-head clearfix">
+			<h2>
+				Shopping Bag</h2>
+			<span class="total-item-price"> <span class="totalItems">
+					(1 item)&nbsp;</span>
+						<span class="grandSum"><span class="totaltxt">
+									Total</span>
+								<strong><span class="rupee">Rs</span> 1,999</strong>
+		</span>
+								</span>
+				</div>
+<!-- ECD-463 start -->
+<!-- ECD-463 End -->
+<div class="delivery-cod-container clearfix">
+<div class="delivery-cod-options clearfix">
+                                 <div class="col-md-6 col-sm-12 col-sx-12">
+                                    <div class="row">
+                                    	<p>Delivery &amp; Express Store Pick Up</p>
+                                      
+
+
+
+
+
+
+		<div class="pincode">
+			
+			<form id="delivery_pincode_id" class="delivery_pincode_id" action="/cart/checkPin" method="post">
+				
+				<div class="check_available" style="display: block;">
+				<input class="delivery_address_input" type="tel" name="pincode" placeholder="Enter Pincode" maxlength="6" value=""> <input type="submit" value="CHECK">
+				</div>
+				
+				
+					
+				<p id="invalidPinID" class="err-cpn">Invalid Pincode</p>
+				<input type="hidden" value="" id="isStorePickUpClicked" name="isStorePickUpClicked">
+			<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form>
+			
+			
+			<div class="cartCheckPin pincode_results_wrap" id="pincode_results_wrapId" style="display: none;">
+				<div class="pincode_display">
+					<span></span> <a href="javascript:void(0);" class="btn-change">Change Pincode</a>
+				</div>
+			</div>
+			
+		</div>
+		
+<!-- ECD 462 STARTS -->
+<!-- <div class="user-static-info hidden-xs hidden-sm"> -->
+<!-- 	<ul> -->
+<!-- 		<li> -->
+
+
+
+
+
+
+
+
+<!-- 		</li> -->
+
+<!-- 				about more options -->
+<!-- 		</span></li> -->
+
+<!-- 	</ul> -->
+<!-- </div> -->
+<!-- ECD 462 ENDS -->
+
+</div>
+                                 </div>
+                                 <div class="col-md-6 col-sm-12 col-sx-12">
+                                   <div class="row">
+            <div class="store-container clearfix">
+				</div>
+			</div>
+                                 </div>
+                            </div><div id="dyId35c87170bf817445" data-dy-embedded-object="true"></div>
+                            </div>
+                               <div class="modal delivery-pickup-popup in" tabindex="-1" role="dialog" area-labelledby=""></div>
+                               <div class="myCartProducts-second-head clearfix">
+                             <div class="col-sm-6"><div class="row"><strong>Products</strong></div> </div>
+                             <div class="col-sm-4 delivery-col"><strong>
+                             	Delivery &amp; Availability<!--(<a href="#" data-toggle="modal" data-target=".check-del-option-popup">Check</a>)-->
+                             </strong></div>
+                             <div class="col-sm-2 amount-col"><strong>Amount</strong></div>
+                           </div>
+                           
+<ul class="shop-listing cartListing">
+	<li class="clearfix">
+
+			<div class="pro-img">
+				<a href="/louis-philippe-mens-printed-formal-shirt/p-206764048/colorChange/206764048_9654"> </a><a href="/louis-philippe-mens-printed-formal-shirt/p-206764048/colorChange/206764048_9654"> <img src="https://sslimages.shoppersstop.com/sys-master/images/hde/h77/14538012721182/206764048_9654.jpg_230Wx334H" alt="">
+				</a>
+				
+			</div>
+			<div class="cart-product-info">
+			<div class="pro-info-shop">
+				<div class="mat-name">
+					<a href="/louis-philippe-mens-printed-formal-shirt/p-206764048/colorChange/206764048_9654">LOUIS PHILIPPE</a> <!--  ECD 466  -->
+				</div>
+
+				<div class="pro-name">
+
+					<a href="/louis-philippe-mens-printed-formal-shirt/p-206764048/colorChange/206764048_9654">Mens Printed Formal Shirt</a>
+				</div>
+
+				<div class="prod-price mobile-prod-price price-off">
+    <strong class="rupee">Rs</strong> 1999</div>
+
+<form id="updateCartForm0" action="/cart/update" method="POST"><ul id="0">
+						<li><span class="lbl-bag">Color:</span> <span class="colorName" title="Purple">Purple</span></li>
+						<!-- ECD-733 start -->
+						<li>
+							<span class="size-txt">Size </span>
+							<div class="size-bx" style="display:block">
+								<span class="select-wrapper">40</span>
+								<input type="hidden" name="sizeProductCode" value="206764092" data-id="input">
+							</div>
+									<div class="a-popover-wrapper size-popover">
+										<div data-action="a-popover-header" class="a-popover-header a-declarative">
+												<h4 id="a-popover-header-1" class="a-popover-header-content">Size</h4>
+												<a href="javascript:void(0)" class="a-button-close">x</a>
+										</div>
+										<div data-action="a-popover-scroll" class="a-popover-inner">
+												<ul class="a-nostyle a-list-link">
+										<li><a href="javascript:void(0)" id="dropdown-size0_0" class="a-dropdown-link a-active" data-value="206764092"> 40</a></li>
+														<li><a href="javascript:void(0)" id="dropdown-size0_1" class="a-dropdown-link" data-value="206764093"> 42</a></li>
+														</ul>
+										</div>
+									</div>
+								
+							</li>
+						<li><span class="qty-txt">Quantity </span>
+						<div class="shop-qty" style="display:block">
+							<span class="select-qty select-wrapper">1</span>
+							<input type="tel" name="quantity" value="1" data-id="input" class="select-qty-input" style="display:none">
+						</div>
+						<div class="a-popover-wrapper qty-popover">
+								<div data-action="a-popover-header" class="a-popover-header a-declarative">
+										<h4 id="a-popover-header-1" class="a-popover-header-content">Quantity</h4>
+										<a href="javascript:void(0)" class="a-button-close">x</a>
+								</div>
+								<div data-action="a-popover-scroll" class="a-popover-inner a-declarative" style="height: auto; overflow-y: auto;">
+									<ul class="a-nostyle a-list-link">
+											<li><a href="javascript:void(0)" data-value="1" id="dropdown-qty0_1" class="a-dropdown-link a-active"> 1</a></li>
+									            <li><a href="javascript:void(0)" data-value="2" id="dropdown-qty0_2" class="a-dropdown-link "> 2</a></li>
+									            <li><a href="javascript:void(0)" data-value="3" disabled="disabled" id="dropdown-qty0_3" class="a-dropdown-link "> 3</a></li>
+									            <li><a href="javascript:void(0)" data-value="4" disabled="disabled" id="dropdown-qty0_4" class="a-dropdown-link "> 4</a></li>
+									            <li><a href="javascript:void(0)" data-value="5" disabled="disabled" id="dropdown-qty0_5" class="a-dropdown-link "> 5</a></li>
+									            <li><a href="javascript:void(0)" data-value="6" disabled="disabled" id="dropdown-qty0_6" class="a-dropdown-link "> 6</a></li>
+									            <li><a href="javascript:void(0)" data-value="7" disabled="disabled" id="dropdown-qty0_7" class="a-dropdown-link "> 7</a></li>
+									            <li><a href="javascript:void(0)" data-value="8" disabled="disabled" id="dropdown-qty0_8" class="a-dropdown-link "> 8</a></li>
+									            <li><a href="javascript:void(0)" data-value="9" disabled="disabled" id="dropdown-qty0_9" class="a-dropdown-link "> 9</a></li>
+									            <li><a href="javascript:void(0)" data-value="10" disabled="disabled" id="dropdown-qty0_10" class="a-dropdown-link  tenPlus"> 10 + </a></li>
+									            </ul>
+								</div>
+						</div>
+						</li>
+						<!-- ECD-733 start -->
+						<li class="formButtons"><button class="update-optn" id="206764092" type="submit" style="display: none;">
+								Update<input type="hidden" name="productCode" value="206764092"> <input type="hidden" name="initialQuantity" value="1">
+							</button>
+							<input type="hidden" name="entryNumber" value="0">
+							<!-- ECD-733 end -->
+					</li></ul>
+				<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form><!-- ECD-1226 Start -->
+				<!-- ECD-1226 End -->
+				
+			</div>
+			
+			
+
+			<div class="col-md-4 delivery-options">
+			<!-- ECD-445 for Responsive -->
+				<!-- end ECD-445 for Responsive -->
+				<ul>
+				    	<li>
+		                                	<span style="">Typically Delivered in 5-7 days</span>
+		                                </li>
+		                                <li>
+		                                	<span style="">Cash On Delivery</span>
+		                                </li>
+	                        <li>
+	                                			<span class="avl-at-store avl">Express Store Pick Up</span>
+	                              </li>
+	                              </ul>
+			    </div>
+
+			<!-- Start ECD-445 -->
+	       
+			<div class="prod-price hidden-xs hidden-sm">
+	        <strong class="rupee">Rs</strong> 1999</div>
+	       <!-- ECD-1226 start -->
+
+				<!-- M~ Start for applied promotions -->
+                 <div class="cart-offers">
+                 <div class="col-md-12">
+	                 <div class="row">
+	                 	<!-- MMM1-->
+						 </div>
+	             </div>
+	             
+	             <!-- End For applied promotions -->
+	             
+	             <!-- Start for potential promotions -->
+	             <div class="col-md-12">
+	                 <div class="row">
+	                 	</div>
+	             </div>
+	             </div>
+	             <!-- End for potential promotions -->
+	             
+	             
+             <div class="hidden-lg hidden-md">
+	             </div>
+			<!-- ECD-1226 End -->
+	       
+	       <!-- end ECD-445 -->
+				<div class="col-md-12 productAction">
+	                 <div class="row">
+	                 	<div class="wishlist-acn wishlist-remove-section clearfix">
+							<div class="remove-item remove-entry-button" id="removeEntry_0">
+								<a href="#" id="removeFromCartID" class="remove-cart-pro">REMOVE</a>
+								<input type="hidden" class="removeProductCode" value="206764092">
+							</div>
+							<!-- ECD-1226 Start -->
+							<!-- ECD-1226 End -->
+							
+							</div>
+	                 </div>
+                 </div>
+                 
+                 
+		</div>
+		</li>
+	</ul>
+
+<!-- ECD-462  -->
+<!-- ECD-462 -->
+<div class="mobile-os-aside-inn"></div>
+
+						<form id="giftWrapFormID" action="/cart/gift-wrap" method="post" novalidate="novalidate"><div class="gift-wrapped">
+			<div class="gift-tab">
+
+				<h2>
+							<span class="gift-ico"></span>
+							Gift wrap</h2>
+					<span> <a class="gift-wrap-remove" href="javascript:void(0)">Add Message</a>
+						</span>
+					</div>
+			<hr>
+
+			<div class="msg-form-wpr">
+			<!-- SSLM-3530 fix -->
+			<div class="gift-wpr-slider"><div class="bx-wrapper"><div class="bx-viewport" aria-live="polite" style="width: 100%; overflow: hidden; position: relative;"><ul style="display: block; width: 215%; position: relative;"></ul></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev disabled" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div></div>
+			<div class="msg-box">
+					<h2>
+						Add a personalized message</h2>
+					<div class="col-md-6 col-lg-6 form-left">
+
+
+						<div class="field-box">
+
+							<label>Recipient name</label>
+							<span> <input type="text" id="giftRecipientName" name="giftRecipientName" placeholder="Dear" value=""></span>
+
+						</div>
+
+						<div class="field-box">
+
+							<label>Message</label> <span><textarea id="giftMessage" name="giftMessage" cols="0" rows="0" maxlength="200"></textarea></span>
+							</div>
+
+						<div class="field-box">
+
+							<label>Senders Name</label> <span><input type="text" id="giftSenderName" name="giftSenderName" placeholder="From" value=""></span>
+
+						</div>
+
+						<div class="action-btns">
+							<button class="btn-apply" type="submit">Save</button>
+							<button class="btn-cancel gift-wrap-btn" type="submit">Cancel</button>
+							</div>
+
+					</div>
+					</div>
+			</div>
+
+		</div>
+	<div>
+<input type="hidden" name="CSRFToken" value="ccf86d38-10b4-4060-805b-13652914ee7e">
+</div></form><div id="dyIdc4845170bf81742a" data-dy-embedded-object="true"></div><div class="promotion-ad-banner">
+
+	<a href="/first-citizen/non-member"> <picture>
+				<source media="(min-width: 1024px)" srcset="https://sslimages.shoppersstop.com/sys-master/images/hba/h99/8841824698398/shopping-bag-promo.jpg">
+				<source media="(min-width: 320px)" srcset="https://sslimages.shoppersstop.com/sys-master/images/hba/h99/8841824698398/shopping-bag-promo.jpg">
+				<img src="https://sslimages.shoppersstop.com/sys-master/images/hba/h99/8841824698398/shopping-bag-promo.jpg" alt=""> </picture>
+			</a>
+		<div class="pro-ad-txt">
+		<p>Get reward points every time you shop using our</p>
+		<h2>First Citizen Loyalty Card</h2>
+		<a href="/first-citizen/non-member">LEARN MORE &gt; </a>
+	</div>
+</div>
+
+<div class="mobile-cs-btnwpr"></div>
+
+					
+
+					<div class="recommends-wpr">
+						<div class="ttabs"><ul class="clearfix tabs-list tabamount0"></ul><div class="content">
+							</div></div>
+					</div>
+
+				</div>
+
+				<!-- Left content Slot -->
+				<!-- ECD-463 starts -->
+				<div class="col-md-3 col-lg-3 col-mobile pad-push order-summary">
+						<div class="os-aside">
+							<!-- ECD-733 start -->
+							<!-- ECD-733 end -->
+							<!-- ECD-463 start -->
+
+<div class="desktop-os-aside-inn">
+	<div class="os-aside-inn">
+		<div class="order-summary-box">
+			<h2>
+				Order Summary</h2>
+			<input type="text" hidden="true" id="user-coupons-value-id" value="0">
+
+			<div class="user-coupons">
+								<div id="-user-coupons-id">
+									<form method="get" class="cartApplyCoupon" id="paymentpromocode" action="/voucherCode/redeem">
+										<input type="hidden" name="pageName" value="cart">
+										<input type="text" placeholder="Enter promo/coupon code" id="cpnid" name="voucherCode">
+											<input class="btn-applycpn" type="submit" value="apply">
+											<p class="err" style="display: none;">Invalid Coupon</p>
+									</form>
+								</div>
+							</div><div id="dyIdb5514170bf81743f" data-dy-embedded-object="true"></div> 
+
+			<!-- No Use of this Code and commenting for security reasons -->
+			<form action="/voucherCode/redeem">
+				<div class="applicable-coupons">
+
+					<input type="text" placeholder="Enter coupon " id="cupnvalue" name="voucherCode">
+					<!-- <input hidden="true" type="text" id="cupnvalue"
+						maxlength="10" /> -->
+
+					<p>OR</p>
+					<div class="coupen-list">
+						<p>Select any offers listed below</p>
+						<ul>
+
+							</ul>
+					</div>
+					<div class="action-btns">
+						<button class="btn-cancel" type="submit">Cancel</button>
+						<button class="btn-apply" type="submit">Apply</button>
+					</div>
+				</div>
+			</form>
+
+			<div class="sub-total">
+				<!--  ECD-463 Start --> 
+<!-- ECD-463 End -->
+<!-- ECD-3505 start -->
+<!-- ECD-3505 end -->
+<ul>
+	<li>
+		<div class="label-txt">
+			Sub total</div>
+		<div class="amount-txt amt">
+			<span><strong class="rupee">Rs</strong>1999</span>
+			</div>
+
+	</li>
+	<li><div class="label-txt">
+					Delivery charges*</div>
+				<div class="amount-txt amt">
+					
+					FREE</div>
+			</li>
+
+	<li>
+		<div class="label-txt">
+			<div class="label-txt">
+				Gift packing</div>
+		</div>
+		<div class="amount-txt">FREE</div>
+	</li>
+	
+	<li>
+		<div class="label-txt">
+			<div class="label-txt">Offer Discount</div>
+		</div>
+		<div class="amount-txt">
+			<div class="amount-txt cupn">NA</div>
+				</div>
+	</li>
+
+	<li>
+		<div class="label-txt">
+			Coupon Discount</div> <div class="amount-txt cupn">NA</div>
+			</li>
+
+</ul>
+</div>
+
+<div class="shopping-grand-total">
+
+	<ul>
+		<li>
+			<div class="label-txt payamt">
+				Payable Amount</div>
+			<div class="amount-txt payamt">
+				
+				<strong><span class="rupee">Rs</span> 1,999</strong>
+		</div>
+		</li>
+		<li>
+
+			<div class="label-txt">
+				You have saved</div>
+			<div class="amount-txt savedamt">
+				<strong><span class="rupee">Rs</span> 0</strong>
+			</div>
+
+		</li>
+		
+		</ul>
+
+</div>
+<form action="/checkout/multi/delivery-address/add" class="chkbtnform">
+				<div class="btnfixed">						
+						<button class="btn-chk-amt" disabled="disabled">
+						<span class="tmt-text">
+						Total<br> 1 item</span>
+						<strong><span class="rupee">Rs</span> 1,999</strong>
+		</button>
+					<button class="btn-place-order" type="submit">
+						CHECKOUT</button>
+					</div>
+				</form>
+				
+				<div class="shop-info">
+					No Delivery charges for Express Store Pickup.<br><br>
+					Do you have a gift card or and electronic gift voucher? Use it at the payment page.</div>
+
+			</div>
+			<!-- ECD-733 start -->
+			<div class="continue-shopping-btn hidden-lg hidden-md">
+			<div class="text-center">
+				<a href="/">
+<button class="btndefault">
+											Continue Shopping</button>
+</a>
+			</div>
+			</div>
+			<!-- ECD-733 end -->
+		</div>
+		<!-- ECD-733 start -->
+<!-- ECD-733 end -->
+	</div>
+</div>
+
+ 
+ <!-- ECD-463 End --><!-- ECD-733 start -->
+							<div class="continue-shopping-btn hidden-xs hidden-sm">
+							<a href="/">
+<button class="btndefault">
+											Continue Shopping</button>
+</a>
+							</div>
+							<!-- ECD-733 end -->
+							</div>
+
+					</div>
+				<!-- ECD-463 end -->
+
+			</div>
+		
+	</section>
+
+	<div class="cart-quick-main"></div>
+<footer class="main-footer clearfix">
+    <div class="content"><div class="add-new"><p>start something new </p></div></div><div class="ssl-services clearfix hidden-sm hidden-md hidden-lg">
+						<ul>
+							 <li>
+								<span class="authenticProduct"></span>
+									<span>Authentic Products</span>
+									
+									</li>
+                    <li>
+								<span class="freeDelivery"></span>
+									<span>Free Delivery*</span>
+									
+									</li>
+                    <li>
+								<span class="easyExchangeAndReturn"></span>
+									<span>Easy Exchange and Return</span>
+									
+									</li>
+                    <li>
+								<span class="expressStorePickup"></span>
+									<span>Express Store Pickup</span>
+									
+									</li>
+                    </ul>
+</div> 
+<div class="footer-container">
+    <div class="payment-subscribe">
+    <div class="footer-light-graysection">
+        <div class=" container-responsive">
+       
+            <div class="">
+              
+                <div class="col-md-4 col-sm-4 col-xs-12 download-app-on">
+                        <strong>DOWNLOAD THE APP ON</strong>
+                        <ul>
+                            <li class="appStore">
+                                	<a href="https://itunes.apple.com/in/app/shoppers-stop/id1047171444?mt=8" target="_blank"></a>
+                                </li> 
+                    <li class="googlePlay">
+                                	<a href="https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&amp;hl=en" target="_blank"></a>
+                                </li> 
+                    </ul>
+                    </div>
+                <div class="content col-lg-4 col-md-4 col-sm-12 desk hidden-xs">
+					<div class="ssl-services">
+						<ul>
+							 <li>
+								<span class="authenticProduct"></span>
+									<span>Authentic Products</span>
+									
+									</li>
+                    <li>
+								<span class="freeDelivery"></span>
+									<span>Free Delivery*</span>
+									
+									</li>
+                    <li>
+								<span class="easyExchangeAndReturn"></span>
+									<span>Easy Exchange and Return</span>
+									
+									</li>
+                    <li>
+								<span class="expressStorePickup"></span>
+									<span>Express Store Pickup</span>
+									
+									</li>
+                    </ul>
+					</div>
+				</div>
+                    
+                <div class=" col-md-4 col-sm-4  col-xs-12 follow-us">
+                    <strong> FOLLOW US</strong>
+                    <ul>                      
+                        <li class="facebook-icon"><a href="https://www.facebook.com/shoppersstopindia" target="_blank"></a></li>
+                        <li class="twitter-icon"><a href="https://twitter.com/shoppersstop" target="_blank"></a></li>
+                        <li class="instagram-icon"><a href="https://instagram.com/shoppers_stop/" target="_blank"></a></li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    <div class="cp-footer">
+        <div class=" container-responsive ">
+         <div class="cp-subfoot">
+
+				
+			<div class="content col-lg-4 col-md-4 col-sm-12">
+                       <div class="questions-call"><h5>questions?</h5><div><div class="call">&nbsp;</div><a href="mailto:customercare@shoppersstop.com">customercare@shoppersstop.com</a></div></div></div>
+                
+                       <div class="verified-secure col-lg-4 col-md-4 col-sm-6">
+                <div class="verfied">
+                    <h5>VERIFIED BY</h5>
+                  		<ul class="ul-verifiedby">
+            				<li class="norton">
+                                					<a href="javascript:showFrame('https://www.entrust.net/customer/profile.cfm?domain=shoppersstop.com&amp;lang=en','verisign')" target="_blank"></a>
+                                				</li>
+                                			<li class="masterCard">
+                                					<a href="javascript:showFrame('http://www.mastercard.com/us/business/en/corporate/securecode/sc_popup.html?language=en','master')" target="_blank"></a>
+                                				</li>
+                                			<li class="verifiedByVisa">
+                                					<a href="javascript:showFrame('http://corporate.shoppersstop.com/ecom/vbv/vbv.html','visa')" target="_blank"></a>
+                                				</li>
+                                			</ul>
+                </div>
+                </div>
+                
+                <div class="verified-secure col-lg-4 col-md-4 col-sm-12">
+         
+                <div class="col-lg- col-md- col-sm-">
+                <div class="pay-secure">
+                    <h5>PAY SECURELY BY</h5>
+                    
+                    <ul class="securly-ul-section">
+                       <li class="visa">
+                    
+                                	<a href="" target="_blank"></a>
+                                </li> 
+                    <li class="masterCard">
+                    
+                                	<a href="" target="_blank"></a>
+                                </li> 
+                    <li class="americanExpress">
+                    
+                                	<a href="" target="_blank"></a>
+                                </li> 
+                    <li class="rupay">
+                    
+                                	<a href="" target="_blank"></a>
+                                </li> 
+                    </ul>
+                </div>
+                </div>
+               </div>
+             </div>
+              
+            </div>
+    </div>
+<div class="foot-links">
+		<div class="container container-responsive">
+			<div class="row">
+				<div class="col-md-12 col-lg-12 padzero">
+					<div class="foot-link-wrap">
+						<ul>
+							<li>
+											<div>
+												<h4>Customer</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="/faq" title="Help/FAQs">Help/FAQs</a></li><li class="yCmsComponent">
+<a href="/trackorders" title="Track Order">Track Order</a></li><li class="yCmsComponent">
+<a href="/sizeguide" title="Size Guide">Size Guide</a></li><li class="yCmsComponent">
+<a href="/buying-guide" title="Buying Guide">Buying Guide</a></li><li class="yCmsComponent">
+<a href="/purchase" title="How do i shop?">How do i shop?</a></li><li class="yCmsComponent">
+<a href="/how-do-i-pay" title="How do i pay?">How do i pay?</a></li><li class="yCmsComponent">
+<a href="/findplaces" title="Find places we deliver">Find places we deliver</a></li><li class="yCmsComponent">
+<a href="http://stylehub.shoppersstop.com/" title="Style Hub" target="_blank">Style Hub</a></li></ul>
+											</div>
+										</li>
+									<li>
+											<div>
+												<h4>Policies</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="/term-condition" title="Terms of use">Terms of use</a></li><li class="yCmsComponent">
+<a href="/privacy" title="Privacy">Privacy</a></li><li class="yCmsComponent">
+<a href="/delivery" title="Delivery Policy">Delivery Policy</a></li><li class="yCmsComponent">
+<a href="/returns" title="Exchanges &amp; Returns">Exchanges &amp; Returns</a></li></ul>
+											</div>
+										</li>
+									<li>
+											<div>
+												<h4>Store and sites</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="/aboutus" title="About us">About us</a></li><li class="yCmsComponent">
+<a href="/contactUs" title="Contact Us">Contact Us</a></li><li class="yCmsComponent">
+<a href="http://corporate.shoppersstop.com/" title="Corporate Site" target="_blank">Corporate Site</a></li><li class="yCmsComponent">
+<a href="/store-finder" title="Store locator">Store locator</a></li><li class="yCmsComponent">
+<a href="https://career.shoppersstop.com/#!/" title="Careers">Careers</a></li></ul>
+											</div>
+										</li>
+									<li>
+											<div>
+												<h4>Delightful Programs</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="/instantGifting" title="Instant Gifting">Instant Gifting</a></li><li class="yCmsComponent">
+<a href="/express-store-pickup" title="EXPRESS STORE PICK UP">EXPRESS STORE PICK UP</a></li></ul>
+											</div>
+										</li>
+									<li>
+											<div>
+												<h4>First Citizen</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="/first-citizen/non-member" title="FIRST CITIZEN">FIRST CITIZEN</a></li></ul>
+											</div>
+										</li>
+									<li>
+											<div>
+												<h4>Reach Us</h4>
+												<ul>
+
+													<li class="yCmsComponent">
+<a href="#" title="For any query please email us">For any query please email us</a></li><li class="yCmsComponent">
+<a href="mailto:customercare@shoppersstop.com" title="customercare@shoppersstop.com">customercare@shoppersstop.com</a></li></ul>
+											</div>
+										</li>
+									</ul>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="copyrights">
+	<div class="container container-responsive">
+		<div class="row">
+			<div class="col-md-12 col-lg-12 col-mobile"><p>© 2008 - 2019 SHOPPERS STOP LTD. ALL RIGHTS RESERVED.</p><ul> <li><a href="/term-condition" target="_blank">Terms of Use</a></li>   <li><a href="/privacy" target="_blank">Cookie &amp; Privacy Policy</a></li></ul></div>
+		</div>
+	</div>
+</div>
+<div class="overlay" style="display: none;"></div>
+<div class="footerBttm-background clearfix">
+        
+
+            </div>
+    </div>
+    <div class="back-to-top"></div>
+
+</footer></main>
+
+	<!--ECD-2882(Popup for cookies)  -->
+	<div class="cookieContainer" id="firstVisit">
+		<div class="close cookieExitButton" data-dismiss="modal" aria-label="Close"></div>
+		<div>
+			<p>We use cookies to give you the best experience and analyze the site use. By continuing your browsing, you accept their use.</p>
+		</div>
+		<div class="policy" id="cookiePolicy">
+			<p>
+				Find out more about cookies in<span>&nbsp;</span><a href="https://www.shoppersstop.com/privacy">Privacy Policy</a>
+			</p>
+		</div>
+	</div>
+
+
+	<form name="accessiblityForm">
+		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
+	</form>
+	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "https://prodstatic.shoppersstop.com/_ui/responsive/common";
+			ACC.config.themeResourcePath = "https://prodstatic.shoppersstop.com/_ui/responsive/theme-ssl";
+			ACC.config.siteResourcePath = "https://prodstatic.shoppersstop.com/_ui/responsive/site-ssl";
+			ACC.config.rootPath = "https://prodstatic.shoppersstop.com/_ui/responsive";	
+			ACC.config.CSRFToken = "ccf86d38-10b4-4060-805b-13652914ee7e";
+			ACC.pwdStrengthVeryWeak = 'Very weak';
+			ACC.pwdStrengthWeak = 'Weak';
+			ACC.pwdStrengthMedium = 'Medium';
+			ACC.pwdStrengthStrong = 'Strong';
+			ACC.pwdStrengthVeryStrong = 'Very strong';
+			ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+			ACC.pwdStrengthTooShortPwd = 'Too short';
+			ACC.pwdStrengthMinCharText = 'Minimum length is %d characters';
+			ACC.accessibilityLoading = 'Loading... Please wait...';
+			ACC.accessibilityStoresLoaded = 'Stores loaded';
+			ACC.config.googleApiKey="AIzaSyDv9adtdPozasSlZObk0gI4Q93y1iU5rNw";
+			ACC.config.googleApiVersion="3.7";
+
+			
+			ACC.autocompleteUrl = '/search/autocompleteSecure';
+			
+			
+			
+			ACC.config.StoreFinderPageTemplate="StoreFinderPageTemplate";
+			ACC.config.MultiStepCheckoutSummaryPageTemplate="MultiStepCheckoutSummaryPageTemplate";
+		/*]]>*/
+	</script>
+	<script type="text/javascript">
+	/*<![CDATA[*/
+	ACC.addons = {};	//JS holder for addons properties
+			
+	
+		ACC.addons.sslsocialconnectaddon = [];
+		
+		ACC.addons.assistedservicepromotionaddon = [];
+		
+		ACC.addons.adaptivesearchsamplesaddon = [];
+		
+		ACC.addons.smarteditaddon = [];
+		
+		ACC.addons.customerticketingaddon = [];
+		
+		ACC.addons.assistedservicestorefront = [];
+		
+				ACC.addons.assistedservicestorefront['asm.timer.min'] = 'min';
+			
+		ACC.addons.assistedservicecustomerinterestsaddon = [];
+		
+	/*]]>*/
+</script>
+<script type="text/javascript" src="https://prodstatic.shoppersstop.com/_ui/cart.min.js?timeStamp=_ts@030715372837#ts_"></script>
+	<script type="text/javascript" async="true" src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/js/acc.asm.return-exchange.min.js?timeStamp=_ts@030715372837#ts_"></script>
+
+<script type="text/javascript" async="true" src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/js/picturefill.min.js?timeStamp=_ts@030715372837#ts_"></script>
+<!-- my account -->
+<!--<script type="text/javascript" src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/js/picturefill.js"></script>-->
+<!-- end My Acoount -->
+
+<!-- Hybris Dev -->
+
+<!-- Hybris Dev -->
+
+
+
+<script type="text/javascript" src="/_ui/addons/assistedservicepromotionaddon/responsive/common/js/assistedservicepromotionaddon.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront/responsive/common/js/assistedservicestorefront.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.pager.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront/responsive/common/js/Chart.min.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront/responsive/common/js/asm.storefinder.js"></script>
+<script type="text/javascript" src="/_ui/addons/customerticketingaddon/responsive/common/js/customerticketingaddon.js"></script>
+<script type="text/javascript" src="/_ui/addons/smarteditaddon/shared/common/js/webApplicationInjector.js"></script>
+<script type="text/javascript" src="/_ui/addons/smarteditaddon/shared/common/js/reprocessPage.js"></script>
+<script type="text/javascript" src="/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js"></script>
+<script type="text/javascript" src="/_ui/addons/smarteditaddon/responsive/common/js/smarteditaddon.js"></script>
+<script type="text/javascript" src="/_ui/addons/assistedservicecustomerinterestsaddon/responsive/common/js/assistedservicecustomerinterestsaddon.js"></script>
+<script type="text/javascript" src="/_ui/addons/sslsocialconnectaddon/responsive/common/js/sslsocialconnectaddon.js"></script>
+<script type="text/javascript">
+/* Google Analytics */
+var googleAnalyticsTrackingId = 'UA-30603879-1';
+var userId = (typeof ACC.global === "undefined" ||  typeof ACC.global === undefined)?"anonymous":ACC.global.getUserData().userId;
+var dataLayer = dataLayer || [];
+dataLayer.push(['_setAccount', googleAnalyticsTrackingId]);
+if(typeof userId!== 'undefined' && userId !== "" && userId!=="anonymous"){
+	var object = {};
+	object['event']='loggedin';
+	object['tvc_userid']= userId;
+	dataLayer.push(object);
+}
+
+	// Call this function when a user clicks on "remove from Cart" button.
+	// Measure the removal of a product from a shopping cart.
+	//shopping edit/update 
+	var removedProduct;
+	 
+	$(document).on('click', '.remove-item', function(e) {
+       e.preventDefault();
+       var getQtyNo = $(this).parents('li').find('.pro-info-shop ul li span.str-qty').html();
+       var productCode = $(this).find('.removeProductCode').val();
+       var productPosition = $(this).parents('li').find('input[name=entryNumber]').val();
+		removeProductDetailsUrl = "/cart/productBasicDetails";
+		$.ajax({
+            data : {
+				'productCode' : productCode
+			},
+			type : 'Get',
+			url : removeProductDetailsUrl,
+			success : removeProductCart,
+			error : function(jqXHR, textStatus, errorThrown) {
+				console.log(JSON.stringify(jqXHR));
+				console.log("AJAX error: " + textStatus + ' : ' + errorThrown);
+			}
+		});
+	
+	function removeProductCart(removedProduct){
+		var categoryNames = removedProduct.categoryNames;
+      var categoryHierarchy = "";
+		for(var i=0;i<categoryNames.length;i++)
+		{
+			
+			categoryHierarchy += categoryNames[i] + "/";
+		}
+	dataLayer.push({
+		
+	  'event': 'removeFromCart',
+	'ecommerce': {
+	    'currencyCode': 'INR',
+	    'remove': {                                      // 'remove' actionFieldObject measures.
+	      'products': [{                          	  // removing a product to a shopping cart.
+	          'name': removedProduct.name,          //Product Name
+	          'id': removedProduct.baseProduct,                               //Product ID
+	          'price': removedProduct.price.value,                            //Product Price
+	          'brand': removedProduct.brandCode,                           //Product Brand
+	          'category': categoryHierarchy,	     //Product Category/Product Subcategory1/Product Subcategory2
+	   	 	 'variant': removedProduct.baseOptions[0].selected.variantOptionQualifiers[0].value,
+	          'quantity': getQtyNo,
+	          'position':productPosition
+	      }]
+	    }
+	  }
+	});
+	}
+	
+	});
+	
+
+	
+	
+	
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	dataLayer.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			dataLayer.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+		} else {
+			dataLayer.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	dataLayer.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+}
+
+window.mediator.subscribe('trackAddToCart', function(data) {
+	alert(data.productCode);
+	if (data.productCode && data.quantity)
+	{
+		trackAddToCart_google(data.productCode, data.quantity);
+	}
+});
+
+window.mediator.subscribe('trackUpdateCart', function(data) {
+	if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
+	{
+		trackUpdateCart(data.productCode, data.initialCartQuantity, data.newCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackRemoveFromCart', function(data) {
+	if (data.productCode && data.initialCartQuantity)
+	{
+		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
+	}
+}); 
+ </script><script type="text/javascript" id="">(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","705873852838660"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=705873852838660&amp;ev=PixelInitialized"></noscript><script type="text/javascript" id="">function tvc_ie_trim(a){a=a.replace(/^\s+|\s+$/g,"");return toTitleCase(a)}function toTitleCase(a){return a.replace(/\w\S*/g,function(a){return a.charAt(0).toUpperCase()+a.substr(1).toLowerCase()})}
+(function(){ga("create",google_tag_manager["GTM-K96M29"].macro(9),"auto");var a=document.querySelectorAll("div.col-md-9.col-lg-9.static-pos.col-mobile.padzero \x3e div \x3e div \x3e div \x3e ul \x3e li \x3e a");if(0<a.length)for(var b=0;b<a.length;b++)a[b].addEventListener("click",function(a){ga("send","event","navigation_"+tvc_ie_trim(this.text),"L1 menu",tvc_ie_trim(this.text));dataLayer.push({event:"navTracking"})});a=document.querySelectorAll("div.col-md-9.col-lg-9.static-pos.col-mobile.padzero \x3e div \x3e div \x3e div \x3e ul \x3e li \x3e div \x3e ul \x3e li \x3e div \x3e ul \x3e li \x3e div \x3e span \x3e a");
+if(0<a.length)for(b=0;b<a.length;b++)a[b].addEventListener("click",function(a){a=tvc_ie_trim(this.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.previousElementSibling.text);ga("send","event","navigation_"+a,"L2 menu",a+" | "+tvc_ie_trim(this.text));dataLayer.push({event:"navTracking"})});a=document.querySelectorAll("div.col-md-9.col-lg-9.static-pos.col-mobile.padzero \x3e div \x3e div \x3e div \x3e ul \x3e li \x3e div \x3e ul \x3e li \x3e div \x3e ul \x3e li \x3e div \x3e ul \x3e li \x3e a");
+if(0<a.length)for(b=0;b<a.length;b++)a[b].addEventListener("click",function(a){try{var b=tvc_ie_trim(this.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.previousElementSibling.text),c=tvc_ie_trim(this.parentElement.parentElement.previousElementSibling.firstElementChild.text);ga("send","event","navigation_"+b,"L3 menu",b+" | "+c+" | "+tvc_ie_trim(this.text));dataLayer.push({event:"navTracking"})}catch(d){}})})();</script><script type="text/javascript" id="">function tvc_delCookie(a){google_tag_manager["GTM-K96M29"].macro(10)&&tvc_setCookie(a,"")}function tvc_setCookie(a,b,c){var d=new Date;d.setTime(d.getTime()+864E5*c);c="expires\x3d"+d.toUTCString();document.cookie=a+"\x3d"+b+";path\x3d/; "+c}function getParam(a,b){b||(b=window.location.href);a=a.replace(/[\[\]]/g,"\\$\x26");a=new RegExp("[?\x26]"+a+"(\x3d([^\x26#]*)|\x26|#|$)");return(b=a.exec(b))?b[2]?decodeURIComponent(b[2].replace(/\+/g," ")):"":null}
+try{if(-1==document.location.href.search("gtm-msr.appspot")){var searchEngine=/google|yahoo|msn|bing|daum|eniro|naver|aol|lycos|ask|altavista|netscape|cnn|about|mamma|alltheweb|voila|virgilio|live|baidu|alice|yandex|najdi|aol|mama|seznam|search|wirtulana|polska|szukacz|yam|pchome|kvasir|sesam|ozu|terra|mynet|ekolay|rambler/,socialList=/google|facebook|twitter|instagram|t\.co|pinterest|blogger|delicious|digg|disqus|meetup|reddit|linkedin/;if(null===document.referrer.match(document.location.origin)){var tvc_referrer=
+document.referrer;tvc_utm_camp=getParam("utm_campaign");null!==tvc_utm_camp?tvc_setCookie("tvc_adzperform",tvc_utm_camp,30):null!==tvc_referrer.match(searchEngine)?tvc_delCookie("tvc_adzperform"):null!=tvc_referrer.match(socialList)?tvc_delCookie("tvc_adzperform"):(null!==getParam("gclid")||null!==getParam("gclsrc"))&&tvc_delCookie("tvc_adzperform");if(null!==getParam("admitad_uid")){var tvc_admitad_uid=getParam("admitad_uid");tvc_setCookie("tvc_admitad_uid",tvc_admitad_uid,30)}null!==getParam("click_id")&&
+(tvc_admitad_uid=getParam("click_id"),tvc_setCookie("tvc_admitad_uid",tvc_admitad_uid,30))}}}catch(a){var tvc_track_cf_pixel=new Image;tvc_track_cf_pixel.src='https://script.google.com/a/macros/tatvic.com/s/AKfycbyWof_RIIMASusKQ6q-o2moi-1oKQNPaJgLVWOb3peNijRf46o/exec?cid\x3d"'+google_tag_manager["GTM-K96M29"].macro(11)+'"\x26msg\x3d'+a.message+"\x26sheetname\x3derr\x26dev\x3d"+google_tag_manager["GTM-K96M29"].macro(12)};</script><script type="text/javascript" id="">window.addEventListener("load",function(){window.dataLayer=window.dataLayer||[];if("performance"in window&&"timing"in window.performance&&"navigation"in window.performance){var a=window.performance.timing;a=a.domComplete-a.navigationStart;if(0<a&&5E4>a){var b=1E3>a?"0-1 seconds":2E3>a?"1-2 seconds":3E3>a?"2-3 seconds":4E3>a?"3-4 seconds":5E3>a?"4-5 seconds":6E3>a?"5-6 seconds":1E4>a?"6-10 seconds":"10+ seconds";dataLayer.push({event:"pageLoaded",eventCategory:"Page Load Time",eventAction:b,eventValue:a})}}});</script><script type="text/javascript" id="">var tvc_domain=".shoppersstop.com";function tvc_setCookie(c,b,d){var a=new Date;a.setTime(a.getTime()+864E5*d);b=escape(b)+("; expires\x3d"+a.toGMTString())+"; path\x3d/";document.cookie=c+"\x3d"+b+";expires\x3d"+a.toGMTString()+";domain\x3d "+tvc_domain+";path\x3d/"}null!==document.location.href.match(/ls_variation1/)&&tvc_setCookie("tvc_variation",1,100);</script><script type="text/javascript" id="">var tvc_flag=!0;(function(){tvc_custom=[]})();function tvc_getSelected(){if(window.getSelection)return window.getSelection();if(document.getSelection)return document.getSelection();var a=document.selection&&document.selection.createRange();return a.text?a.text:!1}
+function tvcTrack(){var a=tvc_getSelected(),c=150;if(a&&(a=(new String(a)).replace(/^\s+|\s+$/g,""))){a.length>c&&(a=a.substr(0,c)+"...");c=a.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi);if(null==!c)for(var b=0;b<c.length;b++)a=a.replace(c[b],"emailid");for(b=0;b<tvc_custom.length;b++)tvc_custom[b].lastcopy==a&&(tvc_flag=!1);if(0===tvc_custom.length||tvc_flag)tvc_custom.push({lastcopy:a}),dataLayer.push({event:"tvc_textcopy",eventCategory:"text copy",eventAction:a});tvc_flag=!0}}
+document.onreadystatechange=function(){document.body.addEventListener("copy",tvcTrack);document.body.addEventListener("oncopy",tvcTrack)};</script><script type="text/javascript" id="">window.QGSettings={appId:"db6757c58cf228c7b6f3",push:{requestSelf:!1,fakePrompt:!1,prompt:{title:"Get Latest Updates",message:"Subscribe to notifications"}}};!function(c,d,e,f,a,b){c.qg||(n=c.qg=function(){n.callmethod?n.callmethod.call(n,arguments):n.queue.push(arguments)},n.queue=[],a=d.createElement(e),a.async=!0,a.src=f,b=d.getElementsByTagName(e)[0],b.parentNode.insertBefore(a,b))}(window,document,"script","https://cdn.qgraph.io/dist/qgraph.v2.js");qg("init",window.QGSettings);</script>
+<script type="text/javascript" id="">try{var axel=Math.random()+"",a=1E13*axel,tvc_DBMpixel=new Image;tvc_DBMpixel.src="https://8033597.fls.doubleclick.net/activityi;src\x3d8033597;type\x3dinvmedia;cat\x3dlb1qiqlx;dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+a+"?"}catch(b){};</script>
+<noscript>
+<iframe src="https://8033597.fls.doubleclick.net/activityi;src=8033597;type=invmedia;cat=lb1qiqlx;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+<script type="text/javascript" id="">try{for(var tvc_cartamt=document.querySelector('span[itemprop\x3d"price"]').innerText.slice(3,10),tvc_cartproduct_qty=document.getElementsByName("productCode").length,tvc_productid="",i=0;i<document.getElementsByName("productCode").length;i++)tvc_productid+=" | "+document.getElementsByName("productCode")[i].value;tvc_productid=tvc_productid.replace("|","");var axel=Math.random()+"",a=1E13*axel;if(null==document.querySelector(".shopping-empty"))var tvc_DBMpixel=new Image;tvc_DBMpixel.src="https://8033597.fls.doubleclick.net/activityi;src\x3d8033597;type\x3dinvmedia;cat\x3dt357iebc;u1\x3d"+
+tvc_productid+";u8\x3d"+tvc_cartamt+";u9\x3d"+tvc_cartproduct_qty+";dc_lat\x3d;dc_rdid\x3d;tag_for_child_directed_treatment\x3d;ord\x3d"+a+"?"}catch(b){};</script>
+<noscript>
+<iframe src="https://8033597.fls.doubleclick.net/activityi;src=8033597;type=invmedia;cat=t357iebc;u1=tvc_productid;u8=tvc_cartamt;u9=tvc_cartproduct_qty;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<script type="text/javascript" id="">(function(){var a=function(){EF.init({eventType:"transaction",transactionProperties:"ev_Cart\x3d1\x26ev_transid\x3d1583760897174",segment:"",searchSegment:"",sku:"",userid:"976",pixelHost:"pixel.everesttech.net",allow3rdPartyPixels:1});EF.main()};window.EF=window.EF||{};if(window.EF.main)a();else if(window.EF.onloadCallbacks=window.EF.onloadCallbacks||[],window.EF.onloadCallbacks[window.EF.onloadCallbacks.length]=a,!window.EF.jsTagAdded){a=document.createElement("script");a.type="text/javascript";
+a.async=!0;a.src="https://www.everestjs.net/static/st.v3.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);window.EF.jsTagAdded=1}})();</script>
+<noscript><img src="https://pixel.everesttech.net/976/t?ev_Cart=1&amp;ev_transid=1583760897174" width="1" height="1"></noscript><script type="text/javascript" id="" src="https://www.artfut.com/static/tagtag.min.js?campaign_code=ae6cdc95a5"></script>
+<script type="text/javascript" defer="">
+
+var cartPage="home|checkout|cart contents";
+var checkoutSignInPage="home|checkout|login";
+var checkoutSignUpPage="home|checkout|sign up";
+var checkoutGuestSignInPage="home|checkout|guest checkout";
+var checkoutAddressPage="home|checkout|address";
+var checkoutNewAddressPage="home|checkout|add new address";
+var checkoutModifyAddressPage="home|checkout|modify address";
+var checkoutSavedAddress="home|checkout|saved address";
+var checkoutPaymentPage="home|checkout|payment";
+var checkoutPaymentFailurePage="home|checkout|order failure";
+var orderConfirmationPage="home|checkout|order successful";
+var searchPage="home|search";
+var errorPage="home|404";
+var checkoutPageCategory="checkout";
+var page = {};
+var digitalData = {};
+var error = {};
+var Login = {};
+var masterProductId = "masterProduct";
+var colorVariantId = "colorVariant";
+var sizeVariantId = "sizeVariant";
+var brandId="brandName";
+
+var pdp="Product Details Page";
+var bannerPageName="Product Listing Page";
+var productSearchPage="Product Listing Page";
+var brandListingPage = "Brand Listing Page";
+var brandLandingPage =  "Brand Landing Page";
+var categoryListingPage="Category Listing Page";
+var plp="PLP";
+var categoryLandingPage="Category Landing page";
+var categoryLanding="Category";
+var cartCategory="Cart";
+var cartPageName="Cart Page";
+var checkout="Checkout";
+var checkoutLogin="Checkout Login";
+var guestLogin="Checkout Login";
+var checkoutSignup="Checkout Login"
+var checkoutAddress="Checkout Address";
+var checkoutNewAddress="Checkout Address";
+var checkoutSavedAddressPage="Checkout Address";
+var checkoutModifyAddress="Checkout Address";
+var checkoutPayment="Checkout Payment";
+var checkoutDelivery="Checkout Delivery Option";
+var orderConfirmation="Order Confirmation";
+var paymentFailurePage="Checkout Order Failure";
+var myAccount="My Account";
+var errorPageName="404";
+var errorPageId="Error Page";
+var payment={};
+var returns={};
+var exchange={};
+var product=[];
+var exchangeSize=[];
+var exchangeSize_sku=[];
+var DefaultPaymentMode="GIFT CARD / E-GIFT VOUCHER";
+var productbrandname="";
+var returnReason="";
+var returnMode="";
+var returnRefundMode="";
+var exchangeMode="";
+var returnOrExchangeProductCategoryNames="";
+var returnQuantity=0;
+var exchangeQuantity=0;
+var linked="";
+var currentUrl = window.location.href;
+//calls this function when user clicks on size button in PDP page.
+$(document).on('click', '.variant_size_ulClass li button', function(e) {
+	if(false){
+    var size=$(this).closest('li').find('.variantSizeCode').val();
+    trackNonCheckoutPageData();
+    trackPageRelatedData(pdp,"PDP");
+    product[masterProductId]=[""];
+    product[colorVariantId]=[""];
+    product[brandId]=[""];
+    product[sizeVariantId] =[size];
+    digitalData["product"] =product;
+    digitalData["productfindingmethod"]=localStorage.getItem("productFindingMethod");
+    digitalData["position"]=localStorage.getItem("viewType")+"|"+localStorage.getItem("productIndex");
+    digitalData[brandId]="";
+	}
+});
+
+//calls this function when user clicks on payment modes in checkout-payment page.
+/* $(document).on('click', '.tabs-left li', function(e) {
+		var liValue = $(this).find('a').clone().children().remove().end().text().trim().toUpperCase();
+		digitalData["paymentmode"]=liValue;
+		_satellite.track('cpj_checkout_payment_selection');
+	
+}); */
+
+$(document).on('click', '.pmtOptions li', function(e) {
+	var liValue = $(this).find('a').clone().children().remove().end().text().trim().toUpperCase();
+		digitalData["paymentmode"]=liValue;
+		_satellite.track('cpj_checkout_payment_selection');
+	
+});
+
+$(document).on('touchstart', '.ss-payments .pmtOptions li', function() {
+	var liValue = $(this).find('a').clone().children().remove().end().text().trim().toUpperCase();
+		digitalData["paymentmode"]=trackPaymentMode(liValue);
+		_satellite.track('cpj_checkout_payment_selection');
+});
+
+$(document).on('click', '.popular-banks-wrap #preferredBankList li label', function() {
+	var bank = $(this).closest('li').find('input').val();
+	digitalData["paymentmode"]="netBanking_"+bank;
+	_satellite.track('cpj_checkout_payment_selection');
+
+});
+
+$(document).on('click', '#bankWalletsForm .popular-banks-wrap ul li label,#bankWalletsForm .popular-banks-wrap ul li input', function() {
+	var bank = $(this).closest('li').find('input').val();
+	digitalData["paymentmode"]="wallet_"+bank;
+	_satellite.track('cpj_checkout_payment_selection');
+
+});
+
+ $(document).on('change', '#bankID', function(e) {
+	var liValue = $("#bankID").val();
+	digitalData["paymentmode"]="netBanking_"+liValue;
+	_satellite.track('cpj_checkout_payment_selection');
+ 
+});
+ 
+ $(document).on('change', '#walletID', function(e) {
+		var wallet = $("#walletID").val();
+		digitalData["paymentmode"]="wallet_"+wallet;
+		_satellite.track('cpj_checkout_payment_selection');
+	 
+}); 
+
+
+//calls this function when user clicks on Calculate your size button in PDP Page.
+$(document).on('click', '.snf5342-template', function(e) {
+	_satellite.track('PDP_Calculate_Your_Size');
+});
+
+//calls this function when user clicks on Ok in calculate your size button in pdp page.
+$(document).on('click', '#snf5342-widget-addto-bag', function(e) {
+	var calculatedSize = $('.snf5342-widget-chart').find('.snf5342-widget-chart-table-row  .snf5342-widget-chart-table-row-cell .underline-success').text();
+	//product["calculatedSize"]=calculatedSize;
+	digitalData["product"]=product;
+	_satellite.track('PDP_calculated_size_confirmation');
+});
+
+//calls this function when user clicks on Size Guide button in PDP Page.
+$(document).on('click', '.sizeGuideFromQuickView', function(e) {
+	_satellite.track('PDP_Size_Guide');
+}); 
+
+//calls this function when user clicks on open in app in mobile.
+$(document).find('.openinapp-container').on('click', '.prime-btn', function(e) {
+	_satellite.track('open_in_app');
+});
+
+//function for finding categories data.
+var firstTime = 0;
+function trackCategoriesData(entry){
+	var category=entry;
+	var str=category.replace("[","");
+	str=str.replace("]","");	
+	var splits=str.split(", ");
+	$.each(splits, function (index, value) {
+		if(index!=0){
+		if(firstTime == 0){
+			page["subsection"+index] = [];
+		}
+		}
+		});
+	$.each(splits, function (index, value) {
+		if(index!=0){
+		page["subsection"+index].push($.trim(value));
+		firstTime = 1;
+		}
+		});
+}
+//function for finding multiple categories data in checkout flow.
+function trackMultipleCategoriesData(){
+	
+				trackCategoriesData("[All Products, Men, Clothing, Shirts]");
+			
+	}
+//function for finding multiple products categories data in order confirmation page.
+function trackOrderCategoriesData(){
+	
+}
+
+	trackPageCategoryData(cartPageName,cartCategory);
+	trackMultipleCategoriesData();
+    trackProductCodes();
+    trackAuthenticationOfUser('true');
+    verifyCheckoutRegistrationFlag();
+    _satellite.track('cpj_cart_page');
+
+//calls this function when user click widgets in my account/wishlist tab.
+$(".my-menu").find('a').click(function(){
+	var myAccountPageName=$(this).text();
+	trackPageRelatedData(myAccountPageName,myAccount);
+ });
+//calls this function when user clicks on my account/wishlist tab in the header.  
+function myAccountWidgets(){
+	var myAccountPageName = $('.my-menu').find('.active a').text();
+	var myAccountChildWidgets = $('.my-menu').find('.active-child a').text();
+	if(myAccountPageName){
+		if( myAccountPageName == "Wishlist"){
+			trackPageRelatedData(myAccountPageName,myAccountPageName);
+		}else{
+			trackPageRelatedData(myAccountPageName,myAccount);
+		}
+	}
+	if(myAccountChildWidgets){
+		if(myAccountChildWidgets == 'Profile'){
+			myAccountChildWidgets = "My Profile";
+		}else if(myAccountChildWidgets == 'First Citizen'){
+			myAccountChildWidgets = "First Citizen Profile";
+		}else if(myAccountChildWidgets == 'Reviews & Ratings'){
+			myAccountChildWidgets = "Reviews and Ratings";
+		}else if(myAccountChildWidgets == 'My Orders'){
+			myAccountChildWidgets = "Orders";
+		}
+		
+		
+		trackPageRelatedData(myAccountChildWidgets,myAccount);
+	}
+	if(false)
+	{
+	trackPageRelatedData(myAccount,myAccount);
+	}
+}
+//function for finding breadcrumbs data on every page.
+function setBreadCrumbsData(count, breadcrumbs) {
+    var breadcrumbsData = "";
+    if (count > breadcrumbs.length) {
+        count = breadcrumbs.length;
+    }
+    for (var i = 0; i < count; i++) {
+        try {
+            breadcrumbsData += breadcrumbs[i].replace(/"/g, "");
+        } catch (e) {
+            console.log('Unable to add breadcrumb', e);
+        }
+    }
+    
+    // return breadcrumbsData.endsWith("|") ? breadcrumbsData.slice(0, -1) : breadcrumbsData; /
+    //SSLM-8005
+    return (breadcrumbsData.length == breadcrumbsData.lastIndexOf("|") + 1) ? breadcrumbsData.slice(0, -1) : breadcrumbsData;
+}
+
+//function for finding breadcrumbs data on PDP page.
+function setSectionBreadCrumbsData(count, breadcrumbs) {
+	var breadcrumbsData = "";
+    if (count > breadcrumbs.length) {
+        count = breadcrumbs.length;
+    }
+    for (var i = 0; i < count; i++) {
+        try {
+            breadcrumbsData = breadcrumbs[i].replace("|", "");
+        } catch (e) {
+            console.log('Unable to add breadcrumb', e);
+        }
+    }
+    //return breadcrumbsData.endsWith("|") ? breadcrumbsData.slice(0, -1) : breadcrumbsData;
+    //SSLM-8005
+    return (breadcrumbsData.length == breadcrumbsData.lastIndexOf("|") + 1) ? breadcrumbsData.slice(0, -1) : breadcrumbsData;
+}
+
+//function for checking breadcrumbs availability
+function checkBreadcrumbsAvailability() {
+	    
+	        page["breadcrumbavailable"] = true; 
+	    
+	}
+function trackPageData(pageName, subsection) {
+  var entries = checkoutSignInPage.split("|");
+  page["pageName"] = pageName;
+  page["channel"] = entries[0] + "|" + entries[1];
+ /*  page["subsection1"] = entries[0] + "|" + entries[1];
+  page["subsection2"] = subsection;
+  page["subsection3"] = subsection;  */
+  page["pagecategory"] = "Checkout";
+  checkBreadcrumbsAvailability();
+  digitalData["page"] = page;
+}
+function trackPageCategoryData(pageName, pageCategory) {
+    var entries = checkoutSignInPage.split("|");
+    page["pageName"] = pageName;
+    page["channel"] = entries[0] + "|" + entries[1];
+    page["pagecategory"] = pageCategory.charAt(0).toUpperCase()+ pageCategory.slice(1).toLowerCase();
+    
+    checkBreadcrumbsAvailability();
+    digitalData["page"] = page;
+  }
+//function for finding channel in page.
+function trackChannelData(){
+	  var breadcrumbs = [
+	        "Home".toLowerCase(),
+			  
+				 "|Shopping Bag".toLowerCase(),         
+			  ]
+			if (breadcrumbs.length == 1) {
+			var pathName=window.location.pathname;
+			if (pathName !== null && pathName!=="/") {
+			breadcrumbs = [breadcrumbs + pathName.replace(/\//g, '|')]
+			}
+		}
+		page["channel"]    =setBreadCrumbsData(2,breadcrumbs);
+  }
+ //function for finding Page Name and Page Category.
+function trackPageRelatedData(pageName, pageCategory) {
+    page["pageName"] = pageName;
+    page["pagecategory"] = pageCategory.charAt(0).toUpperCase()+ pageCategory.slice(1).toLowerCase();
+    digitalData["page"] = page;
+  }
+ 
+//function to capture non available sizes in PDP page.
+ function trackNonCutSizes(){
+	var nonCutSize=0;	
+	var sizeDetails="";
+	var totalSizes="";
+	
+	sizeDetails=(nonCutSize*100)/totalSizes+"%";
+	if(sizeDetails != 'NaN%'){
+	  product["sizeDetails"]=sizeDetails; 
+	}
+	_satellite.track('CPJ_PDP_Non_Cut_Size');
+ }
+	
+//function for tracking cart entries or order entries skus.
+function trackProductCodes(){
+	if(false){	
+		masterProduct = [
+			                  ] 
+		 colorVariant  = [
+				            ] 
+		sizeVariant  = [
+					          ] 
+		brandName  = [
+					          ] 
+		product[masterProductId] = masterProduct;
+		product[colorVariantId] = colorVariant;
+	    product[sizeVariantId] = sizeVariant;
+	    product[brandId] = brandName;
+	}else{
+		masterProduct = [
+					            
+					                   "206764048",
+					            ] 
+		colorVariant = [
+					            
+					                  "206764048_9654",
+					            ] 
+		sizeVariant = [
+						        
+						               "206764092",
+						        ] 
+		brandName  = [
+					          	
+					               		"LOUIS PHILIPPE",
+					          	] 
+		product[masterProductId] = masterProduct;
+	    product[colorVariantId] = colorVariant;
+	    product[sizeVariantId] = sizeVariant;
+	    product[brandId] = brandName;
+	}
+	    digitalData["product"] = product;
+}
+
+//function for tracking cart entries or order entries prices.
+function trackProductPrices(){
+	var productPrices;
+	if(false){
+	productPrices = [
+		                  ] 
+	}else{
+	 productPrices = [
+			                  
+			                        "1999.0",
+			                  ] 	
+	}
+	digitalData["price"] = productPrices;
+}
+
+//function for tracking cart entries or order entries quantities.
+function trackProductQuantities(){
+	var productQuantities;
+	if(false){
+	productQuantities = [
+		                  ] 
+	
+	}else{
+		productQuantities = [
+				          
+				               "1",
+				           ] 
+	}
+	digitalData["qty"] = productQuantities;
+}
+
+//function for tracking user authentication.
+function trackAuthentication(){
+    
+         digitalData["loginstatus"]="guest";
+    
+}
+
+//function for tracking user authentication.
+function trackAuthenticationOfUser(isLoyaltyCustomer){
+    
+         digitalData["loginstatus"]="guest";
+    
+}
+
+//function for finding current page type.
+function trackPageType(){
+	if(currentUrl.includes("/brands")){
+		trackPageRelatedData(brandLandingPage,"PLP");
+	}else if(currentUrl.includes("/brand/")){
+		trackPageRelatedData(brandListingPage,"PLP");
+	}else if(currentUrl.includes("personalshopper") && !currentUrl.includes("personalshoppers")){
+		trackPageRelatedData("Personal Shopper Page","Personal Shopper");
+		 _satellite.track('personal_shopper_page');
+		 
+	} else if(currentUrl.includes("mac-service")){
+		trackPageRelatedData("Mac Service Page","Beauty Service");
+	} 
+	else if("CART"==null || "CART"==''){
+		if(trackMacOrPersonalShopperPages())
+			{
+       //	page["pagecategory"]="Home";
+			}
+		else{
+			page["pagecategory"]="Home".charAt(0).toUpperCase()+ "Home".slice(1).toLowerCase();
+		}
+			
+	}else if("CART" == 'PRODUCT'){
+		 trackPageRelatedData(pdp,"PDP");
+	}
+	else{
+		page["pageName"]="CART".charAt(0).toUpperCase() + "CART".slice(1).toLowerCase();
+        page["pagecategory"]="CART".charAt(0).toUpperCase() + "CART".slice(1).toLowerCase();	}
+}
+//function for tracking non checkout page data.
+function trackNonCheckoutPageData(){
+	var breadcrumbs = [
+		                 "Home".toLowerCase(),
+		   			  
+		   				 "|Shopping Bag".toLowerCase(),         
+		   			  ]
+		if (breadcrumbs.length == 1) {
+			var pathName=window.location.pathname;
+		    if (pathName !== null && pathName!=="/") {
+		        breadcrumbs = [breadcrumbs + pathName.replace(/\//g, '|')]
+		    }
+		}
+	var pageName = setBreadCrumbsData(breadcrumbs.length,breadcrumbs);
+	if(pageName.includes("link first citizen card")){
+		page["pageName"] = "FCC";
+		page["pagecategory"] = "FCC"
+	}else{
+		page["pageName"]   =setBreadCrumbsData(breadcrumbs.length,breadcrumbs);	
+	}
+		page["channel"]    =setBreadCrumbsData(2,breadcrumbs);
+		if(currentUrl.includes("/brand/")){
+			page["subsection1"]=setSectionBreadCrumbsData(2,breadcrumbs);
+		}else if(false){
+			page["subsection1"]=setSectionBreadCrumbsData(2,breadcrumbs);
+			page["subsection2"]=setSectionBreadCrumbsData(3,breadcrumbs);
+			page["subsection3"]=setSectionBreadCrumbsData(4,breadcrumbs);		
+		}else if(false)
+		{
+		page["subsection1"]=setBreadCrumbsData(3,breadcrumbs);
+		page["subsection2"]=setBreadCrumbsData(4,breadcrumbs);
+		page["subsection3"]=setBreadCrumbsData(5,breadcrumbs);
+		}  
+		checkBreadcrumbsAvailability();
+		trackAuthentication();
+		trackPageType();
+		digitalData["page"] = page;	
+}
+
+//function for finding applied promotions on cart
+function trackAppliedPromotions(){
+    var productLevelPromotions = [
+             	                  ]
+    var orderLevelPromotions = [
+                    	          ]
+    var promotions=[];
+    if(productLevelPromotions.length>0){
+     promotions=productLevelPromotions
+     }
+    if(orderLevelPromotions.length>0){
+        if(promotions.length>0){
+           promotions=promotions+","+orderLevelPromotions
+           }else{
+            promotions=	orderLevelPromotions;
+            }
+      }
+   digitalData["promocode"]=promotions;	
+}
+
+
+//funtion for checking pin code serviceability tracking
+function trackPinCodeServiceability(pincode){
+	  if($('#del-available').val()=='false'){
+		  error["errormsg"]="pincode not serviceable";
+		  error["pincode"]=pincode;
+		  digitalData["error"] = error;
+		  _satellite.track('pincode');
+	}
+}
+
+//Function for finding payment mode
+function trackModeOfPayment(paymentType) {
+  digitalData["paymentmode"] = paymentType.toUpperCase();
+  _satellite.track('ext-link');
+  _satellite.track('cpj_place_order');
+}
+
+
+//Call this function when a user clicks on  New Address link in Delivery Address checkout step.
+function trackAddNewDeliveryAddress(){
+	 trackPageCategoryData(checkoutNewAddress,checkout);
+	 firstTime=0;
+	 trackMultipleCategoriesData();
+	 _satellite.track('checkout-link');
+	 _satellite.track('cpj_checkout_add_new_address');
+}
+
+//Call this function when a user clicks on one of the delivery address in Delivery Address checkout step.
+function trackSavedDeliveryAddress(){
+  trackPageCategoryData(checkoutSavedAddressPage,checkout);
+  firstTime=0;
+  trackMultipleCategoriesData();
+  _satellite.track('checkout-link');
+  _satellite.track('cpj_checkout_saved_address');
+}
+
+
+//Call this function when a user clicks on proceed with selected address in Delivery Address checkout step.
+function trackSelectedDeliveryAddress(){
+   trackPageCategoryData(checkoutAddress,checkout);
+   var link={};
+   link["linkName"]="home|delivery to payment";
+   digitalData["link"]=link;
+   _satellite.track('int-link');
+}
+
+//Call this function when a user clicks on Add to cart button.
+function trackAddToCart(){
+	trackNonCheckoutPageData();
+	 //digitalData["product"] =$('#addToCartForm input[name=baseProductCode]').val();
+	_satellite.track('cart-add');
+}
+
+//Call this function when user clicks on checkout login
+function trackCheckoutLogin(){
+	 if("CART" == 'CHECKOUT'){
+		if($('#j_username').val()!==null && $('#j_username').val()!=='' && $('#j_password').val()!==null && $('#j_password').val()!==''){
+      var link={};
+      link["linkName"]="home|login to delivery";
+      digitalData["link"]=link;
+      _satellite.track('int-link');
+  	var username=$('#j_username').val()
+	var loginMode=trackingModeForNormalLogin(username);
+  	trackLoginOrRegistration("logininitiate", loginMode);	
+	  }
+	 }
+}
+
+//Call this function when user removes product from cart
+ function trackRemovedProductFromCart(productcode){
+     digitalData["pid"] = productcode;
+     digitalData["action"] ="removefromcart";
+    _satellite.track('checkout');
+   }
+
+//Measure the user wish list 
+  function trackAddToWishlist(productCode){
+	   digitalData["pid"] = productCode;
+	   digitalData["action"] ="addtowishlist";
+	  _satellite.track('checkout');
+	  _satellite.track('cpj_add_to_wishlist'); 
+  }
+  function trackRemoveFromWishlist(productCode){
+	  digitalData["pid"] = productCode;
+	  digitalData["action"] ="removefromwishlist";
+	  _satellite.track('checkout');
+	  _satellite.track('cpj_remove_from_wishList');
+  }
+  
+
+//Call this function when a user clicks on a Place order button.
+$(document).on('click', '.btn-place-order', function(e) {
+	if($(this).closest('form').attr('action')=='/checkout/multi/delivery-address/add'){
+	var productIds = [
+		                  
+		                        "206764048_9654",
+		                  ] 
+	 digitalData["pids"] = productIds;
+    //_satellite.track('chekout');
+    _satellite.track('cpj_cart_checkout');
+	}
+});
+
+  
+//Call this function when a user clicks on signup button.
+$(document).on('click', '.login-with-social .signUp-btn,.mob a[href="javascript:void(0);"]', function(e) {
+	if ("CART"=="CHECKOUT" && requestUri.search("login") >= 0) {
+    trackPageCategoryData(checkoutSignup,checkout);
+    firstTime=0;
+    trackMultipleCategoriesData();
+    _satellite.track('checkout-link');
+	}
+});
+
+//Call this function when a user clicks on Guest signin  link.
+$(document).on('click', '.continue-guest,a[href="#guest-user"]', function(e) {
+	if ("CART"=='CHECKOUT' && requestUri.search("login") >= 0) {
+    trackPageCategoryData(guestLogin,checkout);
+    _satellite.track('checkout-link');
+	}
+});
+
+//Call this function when a user clicks on  signin  link.
+$(document).on('click', '.hav-account a[href="javascript:void(0);"],.text-right a[href="javascript:void(0);"],a[href="#existing-user"]', function(e) {
+	if ("CART"=='CHECKOUT' && requestUri.search("login") >= 0) {
+	trackPageCategoryData(checkoutLogin,checkout);
+	}
+});
+
+   
+//Call this function when a user clicks on "remove from Cart" button.
+// Measure the removal of a product from a shopping cart.
+ 
+$(document).on('click', '.wishlist-acn .remove-item .remove-cart-pro', function(e) {
+   digitalData["pid"] = $(this).closest('li.clearfix').find('.pro-img').find('a:first-child').attr('href').split("/").splice(-1,1).toString().substr(2);
+   digitalData["action"] ="removefromcart";
+   _satellite.track('checkout');
+   _satellite.track('cpj_cart_removed');
+}); 
+
+  
+//Call this fun when user clicks on "add to wish list" or "Remove from wish list""
+ $(document).on('click', '.wishlist-lists .remove-pro', function(e) {
+	  digitalData["pid"] = $(this).closest('a').attr('href').split("/").splice(-1,1);
+	  digitalData["action"] ="removefromwishlist";
+	  _satellite.track('checkout');
+	  _satellite.track('cpj_remove_from_wishList');
+  });
+  
+ $(document).on('click','.productAction .wishlist-acn .add-to-wishlist',function(e){
+	 digitalData["pid"] = $(this).closest('li.clearfix').find('.pro-img').find('a:first-child').attr('href').split("/").splice(-1,1).toString().substr(2);
+	 digitalData["action"] ="addtowishlist";
+	 _satellite.track('checkout'); 
+	 _satellite.track('cpj_add_to_wishlist');
+ });
+ 
+ $(document).on('click','.productAction .wishlist-acn .remove-to-wishlist',function(e){
+	 digitalData["pid"] = $(this).closest('li.clearfix').find('.pro-img').find('a:first-child').attr('href').split("/").splice(-1,1).toString().substr(2);
+	 digitalData["action"] ="removefromwishlist";
+	 _satellite.track('checkout'); 
+	 _satellite.track('cpj_remove_from_wishList');
+ });
+  
+//Call this func when user clicks on "product" from PLP 
+//Product positioning on Grid Page
+  $(document).on('click','.product-grid .pro-box .li-inner',function(e){
+	  if (e.target.nodeName!='BUTTON' && e.target.id!='removewishlistId'){
+	  var productPosition=$(this).siblings('.nApPostion').val();
+	  var productRowPosition=parseInt(((productPosition-1)/4)+1);
+	  var productColumnPosition=productPosition-4*(productRowPosition-1);
+      localStorage.setItem("productIndex", "R"+productRowPosition+"C"+productColumnPosition);
+      localStorage.setItem("viewType", "Grid");
+	  }
+  });
+
+//Product positioning on List Page
+  $(document).on('click','.pro-box-list .styleImageData .bx-viewport li',function(e){
+	  var productPosition=$(this).parents('li').find('.nApPostion').val();
+      localStorage.setItem("productIndex", "R"+productPosition);
+      localStorage.setItem("viewType", "List");	 
+  });
+     
+
+//Call this function when user clicks on promotional banners
+$(function(){
+	      $('.carousal-button,.fav-banner-button,.latestFromCmsComponentATag,.offersZoneCmsComponentATag,.brandsWeLoveHomePageCmsComponentATag,.simple-responsive-banner-component,.style-hub-img,.cat-best-brands-inn ul li,.new-arrivals ul li .pic,.square-thumb ul li .lazyloaded,.customRow ul li a .carousal-button,.offer-zone ul li a,.discover_blog ul li div .media,.first_update ul li div .media,.bank-offer-main a,.giftmedia .media a').click(function(){
+            localStorage.setItem("productFindingMethod", "internal promotion");
+        	localStorage.setItem("isBannerClicked", true);
+            digitalData["dataMedia"] = $(this).find('img').attr('data-media');
+	       _satellite.track('int-camp');
+       }); 
+});
+ 
+//Call this function when user clicks on sub navigation bar
+$(function(){
+           $('.fn-l1-categories-list .sub-main-menu ul li a').click(function(){
+        	localStorage.setItem("productFindingMethod", "browse");
+      });
+});
+
+//Call this function when user clicks on search  suggestion
+$(document).on('click','.search_right .results_list .autosuggestion_highlight li a',function(e){
+	localStorage.setItem("isManualSearch", true);
+});
+
+//Call this function when user clicks on facet filters
+$(document).on('click','.filter-inner .ex-checkbox label',function(e){
+	var facet = $(this).attr('for').trim();
+    var facetCategory=$(this).closest(".filter-wpr").find(".filter-category-heading").text().trim().split('\t')[0].trim()
+	if($(this).siblings('.facet-checkbox').prop('checked'))
+    {
+      return;		
+    }	
+    else{
+    	digitalData["filters"] = facetCategory+":"+facet;
+    	digitalData["action"] = "secondaryfilter";
+    	_satellite.track('filter');
+    }
+ 
+});
+//call this function when user cliks on top filters in plp
+$('#product-facet').on('click', '.tab_content .tabs_item ul li', function(){
+	var filterMainCategory=$('#product-facet').find('.bx-wrapper').find('.tabs').find('.current').find('span').text().trim();
+	var filterSubCategory=$(this).text().trim().split('\t')[0].trim();
+	digitalData["filters"] = filterMainCategory+":"+filterSubCategory;
+	digitalData["action"] = "secondaryfilter";
+	    	_satellite.track('filter');
+	});
+
+//Call this function when user clicks on search box
+$(".js-site-search-input" ).on( "keypress", function(event) {
+    if(event.which == 13) 
+    {
+    localStorage.setItem("isManualSearch", true);
+    }
+});
+
+//call this function to track the delivery mode
+function trackDeliveryMode(){
+  if("" == "standard-gross")
+    	{
+    	digitalData["deliveryMethod"]="Home delivery";
+    	}
+    else
+    	{
+    	digitalData["deliveryMethod"]="Pickup store";
+    	}
+}
+
+//call this funtion when user clicks on signin button
+$("#member-scroller").on("click","#loginForm #loginajax",function(){
+	var username=$('#j_username').val()
+	var loginMode=trackingModeForNormalLogin(username);
+      trackLoginOrRegistration("logininitiate", loginMode);	
+});
+
+//call this method when user attempts for signup through email
+$("#sign-scroller").on("click","#registerForm #registerajax",function(){
+	trackLoginOrRegistration("registrationinitiate", "email");	
+});
+//call this method when user attempts for signup through email at checkout page
+$(".signUp-container").on("click", "#sslRegisterForm .login-common .continue-btn", function(){
+	trackLoginOrRegistration("registrationinitiate", "email");
+	localStorage.setItem("isCheckoutRegistration", true); 
+	});
+ //call this function when user attempts sigin in through facebook
+ $(".fb-login").click(function(){
+	 trackLoginOrRegistration("logininitiate", "facebook");	
+	 localStorage.setItem("isFacebookLoginInitiated", true);  
+ });
+ 
+ //call this function when user attepmts siginin through google
+ $(".googleBtn").click(function(){
+	 trackLoginOrRegistration("logininitiate", "google");
+ });
+ 
+//calls this function when user clicks on submit button in retun/exchange popup.
+ $(document).on('click', '.return-submit #returnSubmit', function(e) {
+  var returnModalTabActive = $('#return-exchange-items_v1').find('#retExchangeRadio .acc-radio .optionsRadios:checked').next().find('span').text();		
+  if(returnModalTabActive == "Return"){
+		_satellite.track('Returns_initiated')
+		returnReason = $('#return-exchange-items_v1').find('#custom-form-id-return').val();
+		returnMode = $('#return-exchange-items_v1').find('#orderDetailPickUp .pickupOption .acc-radio .optionsRadios:checked').next().find('span').text(); 
+		returnRefundMode = $('#return-exchange-items_v1').find('#orderDetailRefund .refundOption .acc-radio .optionsRadios:checked').next().find('span').text().replace(/\s+/g, ' ');
+		productbrandname = $("#productBrandCodeName").val();
+		returnOrExchangeProductCategoryNames=$("#returnProductCategoryNames").val();
+		$('#return-exchange-items_v1').find('.variant_size_ulClass').each(function(index){
+			returnQuantity=(index+1);
+		});
+		if(returnReason!="" && returnMode!="" && returnRefundMode!=""){
+		returns["reason"]=returnReason;
+		returns["mode"]=returnMode;
+		returns["brand"]=productbrandname;
+		returns["returnQuantity"]=returnQuantity;
+		
+		if(returnRefundMode == "Shoppers Stop Wallet"){
+			returns["returnRefundMode"]="Wallet";	
+		}else{
+			returns["returnRefundMode"]="Online";
+		}
+		
+		returns["size_sku"]= $('#return-modal-class').find('.returnProdCode').val();
+		trackProductCategories(returnOrExchangeProductCategoryNames,returns);
+		product["return"]=returns;
+		digitalData["product"]=product;
+		}
+	}
+	else if(returnModalTabActive == "Exchange"){
+		_satellite.track('Exchange_initiated');
+		exchangeReason = $('#return-exchange-items_v1').find('#custom-form-id-exchange').val();
+		$('#return-exchange-items_v1').find('.variant_size_ulClass').each(function(index){
+			exchangeSize_sku[index] = $(this).find('li.selected .variantSizeCode').val();
+			exchangeSize[index] = $(this).find('li.selected button').text();
+			exchangeQuantity=(index+1);
+		})
+		exchangeMode = $('#return-exchange-items_v1').find('#orderDetailPickUp .pickupOption .acc-radio .optionsRadios:checked').next().find('span').text();
+		productbrandname = $("#productBrandCodeName").val();
+		returnOrExchangeProductCategoryNames=$("#returnProductCategoryNames").val();
+		if(exchangeReason!="" && exchangeMode!=""){
+		exchange["reason"]=exchangeReason;
+		exchange["quantity"]=exchangeQuantity;
+		exchange["size_sku"]=exchangeSize_sku;
+		exchange["size"]=exchangeSize;
+		exchange["brand"]=productbrandname;
+		trackProductCategories(returnOrExchangeProductCategoryNames,exchange);
+		product["exchange"]=exchange;
+		digitalData["product"]=product;
+		}
+	}	
+ });
+//function for finding categories data in return/exchange.
+ var firstTimeReturn = 0;
+ function trackProductCategories(entry,parent){
+ 	var category=entry;
+ 	var str=category.replace("[","");
+ 	str=str.replace("]","");	
+ 	var splits=str.split(", ");
+ 	$.each(splits, function (index, value) {
+ 		if(index!=0){
+ 		if(firstTime == 0){
+ 			parent["subsection"+index] = [];
+ 		}
+ 		}
+ 		});
+ 	$.each(splits, function (index, value) {
+ 		if(index!=0){
+ 		parent["subsection"+index].push($.trim(value));
+ 		firstTimeReturn = 1;
+ 		}
+ 		});
+ }
+ //call this function when user successfully logged in through email or mobile number
+ function trackLoginSuccess(loginMode)
+ {
+	 trackLoginOrRegistration("loginsuccess", loginMode);
+ }
+ 
+ //call this function when user login fails through email or mobile number
+ function trackLoginFailure(loginMode)
+ {
+	 trackLoginOrRegistration("loginfailure", loginMode);
+ }
+ 
+ //call this function when user registers successfully through email
+ function trackRegistrationSuccess(){
+	 trackLoginOrRegistration("registrationsuccess", "email");
+ }
+ 
+ //call this function when user registration fails
+ function trackRegistrationFailure(){
+	 trackLoginOrRegistration("registrationfailure", "email");
+ }
+ 
+//call this funtion whenever sorting is applied
+function trackSortOption(){
+	digitalData["sortoption"]=$("#sort-by-list").find(".active").text().trim();
+    digitalData["action"]="sort";
+    _satellite.track('sort_option_tracking');
+}
+
+//call this function when user successfully logged in through facebook
+function trackFacebookLoginSuccessResponse()
+{
+	trackLoginOrRegistration("loginsuccess", "facebook");
+}
+
+//call this function when user login failed through facebook
+function trackFacebookLoginFailureResponse()
+{
+	trackLoginOrRegistration("loginfailure", "facebook");
+}
+
+//call this function when user successfully logged in  through google account
+function trackGoogleLoginSuccessResponse()
+{
+	trackLoginOrRegistration("loginsuccess", "google");
+}
+
+//call this function when user login fails  through google account
+function trackGoogleLoginFailureResponse()
+{
+	trackLoginOrRegistration("loginfailure", "google");
+}
+
+//to check the checkout registration initiate flag enabled or not	
+	function verifyCheckoutRegistrationFlag()
+	{
+		if(localStorage.getItem("isCheckoutRegistration")=='true')
+	    {
+	    trackCheckoutRegistrationAction();
+	    }
+	}
+	
+// to check whether checkout signup is success or not
+function trackCheckoutRegistrationAction()
+	{
+		if("" == 'failed')
+			{
+			trackRegistrationFailure();
+			}
+		else if("false"=='true')
+			{
+			trackRegistrationSuccess();
+			}
+		localStorage.setItem("isCheckoutRegistration", false);
+		} 
+
+//to track login or registration action and login type details (.i.e common method for all email, google account and facebook tracking details)
+function trackLoginOrRegistration(action, loginType)
+  {
+		 Login["action"]=action;
+		 Login["logintype"]=loginType;
+		 digitalData["Login"]=Login;
+		_satellite.track('login'); 
+	}
+
+//on click of personal shoppers banner
+$(document).find('.responsive-padzero').on('click','.main-slider ul',function(e) {
+	if($(this).find('a').attr('href').indexOf('personalshopper') > -1){
+	_satellite.track('PS_landing_click');
+	}
+});
+
+//on click of personal shoppers BOOK NOW button
+$(document).on('click', '.new-world-shopping .content img', function(e) {
+	_satellite.track('PS_book_now_click');
+});
+
+//on click of personal shoppers continue button in store finder page
+$(document).on('click', '.store_leftside #storeFinderForm #storecontinueBtnId', function(e) {
+	var macBookingId = $('#macBeautyId').val() != null  ? $('#macBeautyId').val() : '798330002'; 
+	if($('#bookingTypeId').val() == macBookingId){
+		_satellite.track('mac_store_select_continue');
+	}
+	else{
+		_satellite.track('ps_store_select_continue');
+	}
+
+});
+
+//on click of personal shoppers continue button in store finder map
+$(document).on('click', '#mapBookBtn', function(e) {
+	
+	var macBookingId = $('#macBeautyId').val() != null  ? $('#macBeautyId').val() : '798330002'; 
+	if($('#bookingTypeId').val() == macBookingId){
+		_satellite.track('mac_store_select_continue');
+	}
+	else{
+		_satellite.track('ps_store_select_continue');
+	}
+	
+});
+
+//on click of personal shoppers continue button in service page
+$(document).on('click', '#servicesbtn', function(e) {
+	_satellite.track('PS_appointment_click');
+});
+
+//on click of personal shoppers book now button in personal shoppers register page
+$(document).on('click', '#booknowbtn', function(e) {
+	if($('#createAppointmentForm').valid()){
+		var macBookingId = $('#macBeautyId').val() != null  ? $('#macBeautyId').val() : '798330002'; 
+		if($('#bookingTypeId2').val() == macBookingId){
+			_satellite.track('mac_customer_page_submit');
+		}
+		else{
+			 _satellite.track('ps_customer_page_submit');
+		}
+	}
+}); 
+
+/**
+ * to track the store selction /customer information page 
+ */
+function trackMacOrPersonalShopperPages(){
+	if(typeof "" != 'undefined' && "" != null && "" != '' && "" != 'undefined' && "" != null && "" != '' ){
+		if("" == '798330001'){
+			page["pageName"]='PS Store Selection Page';
+			trackPSCategory();
+			_satellite.track('ps_store_selection_page');
+			return true;
+		}else if("" == '798330002'){
+			page["pageName"]='Mac Store Selection Page';
+			trackMacServiceCategory();
+			_satellite.track('mac_store_selection_page');
+			return true;
+		}
+		return false;
+}else if(typeof "" != 'undefined' && ""  != null && "" != '' && "" != 'undefined' && "" != null && "" != '' ){
+		if("" == '798330001'){
+			page["pageName"]='PS Customer Information Page';
+			trackPSCategory();
+			_satellite.track('ps_customer_information_page');
+			return true;
+		}else if("" == '798330002'){
+			page["pageName"]='Mac Customer Information Page';
+			trackMacServiceCategory();
+			_satellite.track('mac_customer_information_page');
+			return true;
+		}
+		return false;
+}
+	return false;
+}
+
+//personal shopper category tracking
+function trackPSCategory(){
+	page["pagecategory"] = "Personal Shopper";
+}
+
+//mac  category tracking
+function trackMacServiceCategory(){
+	page["pagecategory"] = "Beauty Service";
+}
+
+//to track the payment modes
+function trackPaymentMode(paymentmode){
+	if(paymentmode == 'COD Payment'){
+		return "COD";
+	}else if(paymentmode == 'credit card'){
+		return 'CREDIT CARD';
+	}else if(paymentmode == 'debit card'){
+		return 'DEBIT CARD';
+	}else if(paymentmode == 'debit card'){
+		return 'DEBIT CARD';
+	}else if(paymentmode == 'ss credits payment'){
+		return 'SS WALLET';	
+	}else if(paymentmode == 'Paytm Payment Gateway'){
+		return 'PAYTM';	
+	}else if(paymentmode == 'gift caed / e-gift voucher'){
+		return 'GIFT CARD / E-GIFT VOUCHER';	
+	}else if(paymentmode == 'CASH ON DELIVERY'){
+		return "COD";
+	}else{
+		return paymentmode;
+	}
+ }
+
+
+</script> 	<script type="text/javascript">
+
+var pageType=document.getElementById("pageType").value;
+
+function trackDYLogin()
+{
+    localStorage.setItem('loginEvent', 'true')
+}
+
+function trackDYRegistration(email,gender){
+	if(typeof email !== "undefined" && email !== ""){
+	    DY.API("event", {
+	            name: "Signup",
+	            properties: {
+	                dyType: "signup-v1",
+	                hashedEmail: DYO.dyhash.sha256(email),
+	                metadata: {
+	                gender : gender
+	            }
+	        }
+	    });
+	    trackDYIdentifyAPI(email);
+	}
+}
+
+
+function trackDYPromoCodeEntered(){
+
+    var orderLevelPromotions = [    
+                    	               ];
+    $.each(orderLevelPromotions, function(){
+    	if(typeof this.valueOf() !== "undefined"){
+            DY.API("event", {
+                name: "Promo Code Entered",
+                properties: {
+                    dyType: "enter-promo-code-v1",
+                    code: this.valueOf()
+                    }
+                });
+        }
+    });
+    
+}
+
+function trackDYNewsletterSubscription(email){
+
+    DY.API("event", {
+        name: "Newsletter Subscription",
+        properties: {
+            dyType: "newsletter-subscription-v1",
+            hashedEmail: DYO.dyhash.sha256(email)
+        }
+    });
+    trackDYIdentifyAPI(email);
+}
+
+
+if(pageType=='PRODUCTSEARCH' || pageType=='CATEGORY' || pageType == 'CATEGORYBRAND' ){
+    var sortItem=$("#sort-by-list").find(".active").attr("sortCode"),sortBy,sortOrder;
+    var map = new Object();
+    map["categoryRelevance"] = "OTHER,ASC";
+    map["topRated"] = "POPULARITY,ASC";
+    map["newArrival-desc"] = "OTHER,DESC";
+    map["discount-desc"] = "OTHER,DESC";
+    map["bestSeller-desc"] = "OTHER,DESC";
+    map["price-asc"] = "PRICE,ASC";
+    map["price-desc"] = "PRICE,DESC";
+    if(typeof sortItem!== 'undefined'){
+    if(typeof map[sortItem] == 'undefined'){
+        sortOrder="ASC";
+        sortBy: "OTHER";
+    }else{
+        sortBy = map[sortItem].split(',')[0];
+        sortOrder = map[sortItem].split(',')[1];
+    }
+    DY.API("event", {
+        name: "Sort Items",
+        properties: {
+            dyType: "sort-items-v1",
+            sortBy: sortBy,
+            sortOrder: sortOrder,
+        }
+    });
+    }
+}
+
+if(pageType=='PRODUCTSEARCH'){
+    if(typeof search.term != 'undefined'){
+        DY.API("event", {
+            name: "Keyword Search",
+            properties: {
+                dyType: "keyword-search-v1",
+                keywords: search.term
+            }
+        });
+    }
+}
+
+
+$(document).on('click','.filter-inner .ex-checkbox label',function(e){
+	var facet = $(this).attr('for');
+    var facetCategory=$(this).closest(".filter-wpr").find(".filter-category-heading").text().trim().split('\t')[0].trim()
+	if($(this).siblings('.facet-checkbox').prop('checked'))
+    {
+      return;
+    }
+    else{
+        DY.API("event", {
+            name: "Filter Items",
+            properties: {
+                dyType: "filter-items-v1",
+                filterType: facetCategory,
+                filterStringValue: facet
+            }
+        });
+    }
+
+});
+
+if(pageType=='ORDERCONFIRMATION'){
+	var orderId = 'null';
+	if(orderId != ''){
+    	trackDYPromoCodeEntered();
+        if($('[data-id="isFccProductPurchase"]').val()=="true" || $('[data-id="isFccProductPurchase"]').val()==true){
+        	trackDYFirstCitizenPurchase();
+        }
+        DY.API("event", {
+            name: "Purchase",
+            properties: {
+                uniqueTransactionId: "",
+                
+                dyType: "purchase-v1",
+                value: parseFloat(),
+                currency: "INR",
+                cart: [
+                    
+                ]
+            }
+        });
+	}
+}
+
+if(pageType=='CART'){
+
+    var cartAttributes = {
+          
+        };
+    if(cartAttributes.cartOperation== "REMOVE" && typeof cartAttributes.code !== "undefined" && cartAttributes.code !== ""){
+        DY.API("event", {
+            name: "Remove from Cart",
+            properties: {
+                dyType: "remove-from-cart-v1",
+                value: parseFloat(cartAttributes.price),
+                currency: "INR",
+                productId: cartAttributes.code,
+                quantity: parseInt(cartAttributes.quantity),
+                size: cartAttributes.size,
+                cart: [
+                    
+                        {
+                            productId: "206764048_9654",
+                            quantity: parseInt(1),
+                            itemPrice: 1999.0,
+                            size: "40"
+                        }
+                        ,
+                ]
+            }
+        });
+    }
+    else if(cartAttributes.cartOperation == "UPDATE"){
+        DY.API("event", {
+            name: "Sync cart",
+            properties: {
+                dyType: "sync-cart-v1",
+                currency: "INR",
+                cart: [
+                    
+                        {
+                            productId: "206764048_9654",
+                            quantity: parseInt(1),
+                            itemPrice: 1999.0,
+                            size: "40"
+                        }
+                        ,
+                ]
+            }
+        });
+    }
+}
+
+function trackDYAddtoWishlist(productId){
+
+    DY.API("event", {
+        name: "Add to Wishlist",
+        properties: {
+            dyType: "add-to-wishlist-v1",
+            productId: productId,
+        }
+    });
+}
+
+$(document).on('click','.productAction .wishlist-acn .add-to-wishlist',function(e){
+    var productId=$(this).closest('li.clearfix').find('.pro-img').find('a:first-child').attr('href').split("colorCode=");
+
+    DY.API("event", {
+        name: "Add to Wishlist",
+        properties: {
+            dyType: "add-to-wishlist-v1",
+            productId: productId[1],
+        }
+    });
+ });
+
+function trackDYAddtoCart(form,data){
+        var variantColorCode = $(form).find('[data-id="styleCode"]').val();
+        var size = $(form).find('[data-id="sizeValue"]').val();
+        var price =$(form).find('[data-id="price"]').val();
+        var jsonObj = [];
+        $.each(data.entries, function(){
+            jsonObj.push({'productId': this.product.styleCode,
+                      'quantity': parseInt(this.quantity),
+                      'itemPrice': this.product.price.value,
+            });
+        });
+        if(typeof variantColorCode !== 'undefined' && variantColorCode !== ""){
+	        DY.API("event", {
+	            name: "Add to Cart",
+	            properties: {
+	                dyType: "add-to-cart-v1",
+	                value: parseFloat(price),
+	                currency: "INR",
+	                productId: variantColorCode,
+	                quantity: 1,
+	                size: size,
+	                cart: jsonObj
+	            }
+	        });
+        }
+
+}
+
+if(localStorage.getItem("loginEvent") == "true"){
+	var email = (typeof ACC.global === "undefined" ||  typeof ACC.global === undefined)?"anonymous":ACC.global.getUserData().userId;
+	DY.API("event", {
+        name: "Login",
+        properties: {
+            dyType: "login-v1",
+            hashedEmail: DYO.dyhash.sha256(email),
+        }
+    });
+	trackDYFCCLogin();
+	trackDYIdentifyAPI(email);
+	localStorage.removeItem("loginEvent");
+}
+
+function trackDYPersonalShopperBooking(){
+	DY.API("event", {
+		name: "Personal Shopper Booking",
+		properties: {
+			type: "custom"
+		}
+	});
+}
+
+function trackDYFirstCitizenPurchase(){
+	DY.API("event", {
+		name: "First Citizen Purchase",
+		properties: {
+			type: "custom"
+		}
+	});
+}
+
+function trackDYFCCLogin(){
+	var isFCCLinked = (typeof ACC.global === "undefined" ||  typeof ACC.global === undefined)?"true":ACC.global.getUserData().isFCClinked;
+	if(typeof isFCCLinked !== undefined && isFCCLinked == 'true'){
+		DY.API("event", {
+			name: "First Citizen Login",
+			properties: {
+				type: "custom"
+			}
+		});
+	}
+}
+
+function trackDYFCCLink(){
+	DY.API("event", {
+		name: "First Citizen Card Link",
+		properties: {
+			type: "custom"
+		}
+	});
+}
+
+function trackDYIdentifyAPI(email){
+	DY.API("identify", {
+	  uid: DYO.dyhash.sha256(email), //SHA 256 hashed email of the plain text email in lower case
+	  type: "he"
+	});
+}
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://www.shoppersstop.com/",
+      "logo": ""
+    }
+
+
+</script>
+	<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.shoppersstop.com/",
+      "name": "Home"
+    }
+  },
+	
+                {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                "@id": "https://www.shoppersstop.com/cart",
+                "name": "Shopping Bag"
+                }
+                }
+            
+  ]
+}
+
+
+    </script>
+	<script type="text/javascript">_satellite.pageBottom();</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"5207ca17be","agent":"","beacon":"bam.nr-data.net","applicationTime":854,"applicationID":"189374106","transactionName":"ZgRbZhFWXkFSURdeCV9OakIRXl5VcF0NQxReDVVXERhzU0FGM1YBVCJWXBdFX15fVxEYFVkOTnECRUQ=","queueTime":0}</script>
+
+<input type="hidden" id="roc" name="roc" value="5">
+<iframe id="ssIFrame_google" sandbox="allow-scripts allow-same-origin" aria-hidden="true" frame-border="0" style="position: absolute; width: 1px; height: 1px; left: -9999px; top: -9999px; right: -9999px; bottom: -9999px; display: none;" src="https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.shoppersstop.com&amp;rpcToken=231394964.72382277"></iframe><script type="text/javascript" id="">_tvc_cookie={get:function(a){var b=document.cookie.indexOf(a+"\x3d"),c=b+a.length+1;if(!b&&a!=document.cookie.substring(0,a.length)||-1==b)return null;a=document.cookie.indexOf(";",c);-1==a&&(a=document.cookie.length);return unescape(document.cookie.substring(c,a))},set:function(a,b,c,e,f,g){b=JSON.stringify(b);var d=new Date;d.setTime(d.getTime());c&&(c*=1E3);d=new Date(d.getTime()+c);document.cookie=a+"\x3d"+b+(c?";expires\x3d"+d.toGMTString():"")+(e?";path\x3d"+e:"")+(f?";domain\x3d"+f:"")+(g?
+";secure":"")}};var tvc_Usrjson=_tvc_cookie.get("tvc_usertime");
+if(""!=tvc_Usrjson){var tvc_obj=JSON.parse(tvc_Usrjson);tvc_obj&&(dataLayer.push({event:"screenTime","tvc_main-slider":tvc_obj["main-slider"],tvc_shipping:tvc_obj.shipping,"tvc_style-inspiration":tvc_obj["style-inspiration"],tvc_latest:tvc_obj.latest,"tvc_new-arrivals":tvc_obj["new-arrivals"],"tvc_offer-zone":tvc_obj["offer-zone"],tvc_brands:tvc_obj.brands,tvc_favourites:tvc_obj.favourites}),_tvc_cookie.set("tvc_usertime",null,-2592E6,"/"))};</script><script type="text/javascript" id="">var facebook=document.querySelector(".facebook"),twitter=document.querySelector(".twitter"),pinterest=document.querySelector(".pinterest"),googleplus=document.querySelector(".googleplus"),tvc_logo=null,logo=document.querySelector("div.logo"),logo2=document.querySelectorAll("header.cp-header a")[1],tvc_profile_tag=document.querySelector(".profile-tag"),signInClick=document.getElementsByClassName("sign-tag");null!=facebook&&facebook.addEventListener("click",function(){dataLayer.push({event:"footer_social_button_click"})});
+null!=twitter&&twitter.addEventListener("click",function(){dataLayer.push({event:"footer_social_button_click"})});null!=pinterest&&pinterest.addEventListener("click",function(){dataLayer.push({event:"footer_social_button_click"})});null!=googleplus&&googleplus.addEventListener("click",function(){dataLayer.push({event:"footer_social_button_click"})});null!=logo&&void 0!=logo?tvc_logo=logo:null!=logo2&&void 0!=logo2&&(tvc_logo=logo2);null!=tvc_logo&&tvc_logo.addEventListener("click",function(a){dataLayer.push({event:"logo_click"})});
+null!=tvc_profile_tag&&tvc_profile_tag.addEventListener("click",function(a){dataLayer.push({event:"profileSeen"})});if(0<signInClick.length)for(i=0;i<signInClick.length;i++)signInClick[i].addEventListener("click",function(){dataLayer.push({event:"signInClick"})});</script><script type="text/javascript" id="">try{var lastKnownPos=0;dataLayer=window.dataLayer||[];var scrollingArea=document.querySelector("body.language-en"),callBackTime=100,timer=0,didComplete=!1,flag_10=!1,flag_20=!1,flag_30=!1,flag_40=!1,flag_50=!1,flag_60=!1,flag_70=!1,flag_80=!1,flag_90=!1,flag_100=!1,body=document.body,html=document.documentElement,pageLength=Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight);scrollingArea&&google_tag_manager["GTM-K96M29"].macro(32)(window,"scroll",function(){pageLength=
+Math.max(body.scrollHeight,body.offsetHeight,html.clientHeight,html.scrollHeight,html.offsetHeight);timer&&clearTimeout(timer);timer=setTimeout(trackLocationUnload,callBackTime)});google_tag_manager["GTM-K96M29"].macro(48)(window,"beforeunload",function(){dataLayer.push({event:"tvc_scrolltracking"});var a=!1;if(!window.navigator.sendBeacon){var b=new Date;do var c=new Date-b;while(300>c&&!a)}})}catch(a){google_tag_manager["GTM-K96M29"].macro(53)(a.name,a.message,"tvc_scrolltracking_inject")}
+function trackLocationUnload(){currentPosition=window.innerHeight+window.scrollY;currentPosition>=pageLength&&!didComplete&&(didComplete=flag100=!0);Math.round(10*pageLength/100)<=currentPosition&&!didComplete&&!flag_10&&(flag_10=!0);Math.round(20*pageLength/100)<=currentPosition&&!didComplete&&!flag_20&&(flag_20=!0);Math.round(30*pageLength/100)<=currentPosition&&!didComplete&&!flag_30&&(flag_30=!0);Math.round(40*pageLength/100)<=currentPosition&&!didComplete&&!flag_40&&(flag_40=!0);Math.round(40*
+pageLength/100)<=currentPosition&&!didComplete&&!flag_40&&(flag_40=!0);Math.round(50*pageLength/100)<=currentPosition&&!didComplete&&!flag_50&&(flag_50=!0);Math.round(60*pageLength/100)<=currentPosition&&!didComplete&&!flag_60&&(flag_60=!0);Math.round(70*pageLength/100)<=currentPosition&&!didComplete&&!flag_70&&(flag_70=!0);Math.round(80*pageLength/100)<=currentPosition&&!didComplete&&!flag_80&&(flag_80=!0);Math.round(90*pageLength/100)<=currentPosition&&!didComplete&&!flag_90&&(flag_90=!0);lastKnownPos<
+currentPosition&&(lastKnownPos=currentPosition,pageLength<lastKnownPos&&(lastKnownPos=pageLength))};</script><div style="display: none; visibility: hidden;"><script src="//tw.netcore.co.in/smartechclient.js"></script> 
+<script>smartech("create","ADGMOT35CHFLVDHBJNIG50K96832UI4SFK57K3CEIDOTAG9SU8PG");smartech("register","d3e831794a8d6bc0207aae057556f670");smartech("identify","");smartech("dispatch",1,{});</script></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
