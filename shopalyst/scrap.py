@@ -9,9 +9,9 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.implicitly_wait(30)
 driver.maximize_window()
 
-val = input("Enter your product page url ")
+
 host = "https://www.shoppersstop.com/louis-philippe-mens-printed-formal-shirt/p-206764048/colorChange/206764048_9654"
-driver.get(val)
+driver.get(host)
 time.sleep(4)
 driver.find_element_by_xpath("//button[@class = 'variant-size-button-206764092']").click()
 time.sleep(2)
